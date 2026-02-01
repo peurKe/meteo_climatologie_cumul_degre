@@ -1,0 +1,452 @@
+[
+  {
+    "id": "47004001",
+    "nom": "AIGUILLON",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 0.334667,
+    "lat": 44.283167,
+    "alt": 32,
+    "postePublic": true
+  },
+  {
+    "id": "47007002",
+    "nom": "ALLONS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": -0.065333,
+    "lat": 44.2155,
+    "alt": 123,
+    "postePublic": true
+  },
+  {
+    "id": "47038002",
+    "nom": "BOURRAN-INRAE",
+    "posteOuvert": true,
+    "typePoste": 3,
+    "lon": 0.413167,
+    "lat": 44.331833,
+    "alt": 55,
+    "postePublic": true
+  },
+  {
+    "id": "47041001",
+    "nom": "BRUCH",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.398667,
+    "lat": 44.215333,
+    "alt": 38,
+    "postePublic": true
+  },
+  {
+    "id": "47048001",
+    "nom": "CANCON",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.633167,
+    "lat": 44.528833,
+    "alt": 141,
+    "postePublic": true
+  },
+  {
+    "id": "47057001",
+    "nom": "CASTILLONNES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.596667,
+    "lat": 44.648667,
+    "alt": 103,
+    "postePublic": true
+  },
+  {
+    "id": "47084001",
+    "nom": "DOUZAINS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.556167,
+    "lat": 44.6305,
+    "alt": 136,
+    "postePublic": true
+  },
+  {
+    "id": "47085001",
+    "nom": "DURANCE",
+    "posteOuvert": false,
+    "typePoste": 1,
+    "lon": 0.1625,
+    "lat": 44.154333,
+    "alt": 142,
+    "postePublic": true
+  },
+  {
+    "id": "47086001",
+    "nom": "DURAS",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 0.2065,
+    "lat": 44.685667,
+    "alt": 112,
+    "postePublic": true
+  },
+  {
+    "id": "47091001",
+    "nom": "AGEN-LA GARENNE",
+    "posteOuvert": true,
+    "typePoste": 0,
+    "lon": 0.594667,
+    "lat": 44.172167,
+    "alt": 58,
+    "postePublic": true
+  },
+  {
+    "id": "47093002",
+    "nom": "FARGUES-SUR-OURBISE",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 0.186333,
+    "lat": 44.235833,
+    "alt": 124,
+    "postePublic": true
+  },
+  {
+    "id": "47095001",
+    "nom": "FAUILLET",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.270833,
+    "lat": 44.428333,
+    "alt": 30,
+    "postePublic": true
+  },
+  {
+    "id": "47096001",
+    "nom": "FERRENSAC",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.639667,
+    "lat": 44.646167,
+    "alt": 96,
+    "postePublic": true
+  },
+  {
+    "id": "47108001",
+    "nom": "GAUJAC",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.120167,
+    "lat": 44.489167,
+    "alt": 20,
+    "postePublic": true
+  },
+  {
+    "id": "47119001",
+    "nom": "HOUEILLES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.024,
+    "lat": 44.193167,
+    "alt": 150,
+    "postePublic": true
+  },
+  {
+    "id": "47123001",
+    "nom": "LACAPELLE-BIRON-PAILLOLES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.912333,
+    "lat": 44.605,
+    "alt": 195,
+    "postePublic": true
+  },
+  {
+    "id": "47123002",
+    "nom": "LACAPELLE-BIRON",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 0.900333,
+    "lat": 44.585667,
+    "alt": 235,
+    "postePublic": true
+  },
+  {
+    "id": "47137003",
+    "nom": "LAPLUME",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.582667,
+    "lat": 44.114333,
+    "alt": 160,
+    "postePublic": true
+  },
+  {
+    "id": "47138001",
+    "nom": "LAROQUE-TIMBAUT",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 0.775167,
+    "lat": 44.265667,
+    "alt": 186,
+    "postePublic": true
+  },
+  {
+    "id": "47157001",
+    "nom": "MARMANDE - MAN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.132667,
+    "lat": 44.510167,
+    "alt": 25,
+    "postePublic": true
+  },
+  {
+    "id": "47157002",
+    "nom": "MARMANDE EAUBONNE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.172833,
+    "lat": 44.4985,
+    "alt": 28,
+    "postePublic": true
+  },
+  {
+    "id": "47157004",
+    "nom": "MARMANDE",
+    "posteOuvert": false,
+    "typePoste": 1,
+    "lon": 0.193333,
+    "lat": 44.498167,
+    "alt": 30,
+    "postePublic": true
+  },
+  {
+    "id": "47163001",
+    "nom": "MAUVEZIN-SUR-GUPIE",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 0.160333,
+    "lat": 44.5615,
+    "alt": 95,
+    "postePublic": true
+  },
+  {
+    "id": "47170001",
+    "nom": "MONBAHUS AGGLOMERATION",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.533333,
+    "lat": 44.55,
+    "alt": 153,
+    "postePublic": true
+  },
+  {
+    "id": "47175001",
+    "nom": "MONFLANQUIN",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 0.734167,
+    "lat": 44.532,
+    "alt": 118,
+    "postePublic": true
+  },
+  {
+    "id": "47179001",
+    "nom": "MONSEMPRON-LIBO",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.940333,
+    "lat": 44.4945,
+    "alt": 110,
+    "postePublic": true
+  },
+  {
+    "id": "47195001",
+    "nom": "NERAC - MAN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.309167,
+    "lat": 44.109833,
+    "alt": 80,
+    "postePublic": true
+  },
+  {
+    "id": "47195005",
+    "nom": "NERAC",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 0.3075,
+    "lat": 44.110667,
+    "alt": 65,
+    "postePublic": true
+  },
+  {
+    "id": "47210001",
+    "nom": "PORT-SAINTE-MARIE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.358833,
+    "lat": 44.256667,
+    "alt": 33,
+    "postePublic": true
+  },
+  {
+    "id": "47213001",
+    "nom": "PRAYSSAS",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 0.570667,
+    "lat": 44.310833,
+    "alt": 196,
+    "postePublic": true
+  },
+  {
+    "id": "47221001",
+    "nom": "REAUP",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 0.193333,
+    "lat": 44.091667,
+    "alt": 158,
+    "postePublic": true
+  },
+  {
+    "id": "47252001",
+    "nom": "STE-LIVRADE - V",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.603333,
+    "lat": 44.424667,
+    "alt": 49,
+    "postePublic": true
+  },
+  {
+    "id": "47252002",
+    "nom": "SAINTE-LIVRADE-SUR-LOT",
+    "posteOuvert": false,
+    "typePoste": 1,
+    "lon": 0.613833,
+    "lat": 44.4305,
+    "alt": 49,
+    "postePublic": true
+  },
+  {
+    "id": "47252003",
+    "nom": "SAINTE-LIVRADE - M",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.575667,
+    "lat": 44.394333,
+    "alt": 47,
+    "postePublic": true
+  },
+  {
+    "id": "47254001",
+    "nom": "SAINT-MARTIN-CURTO",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 0.042833,
+    "lat": 44.345333,
+    "alt": 144,
+    "postePublic": true
+  },
+  {
+    "id": "47264001",
+    "nom": "SAINT-PARDOUX-ISAAC",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.361333,
+    "lat": 44.6065,
+    "alt": 63,
+    "postePublic": true
+  },
+  {
+    "id": "47280001",
+    "nom": "ST-SYLVESTR - V",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.805667,
+    "lat": 44.402833,
+    "alt": 69,
+    "postePublic": true
+  },
+  {
+    "id": "47280003",
+    "nom": "SYLVESTRE/LOT",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.815833,
+    "lat": 44.402167,
+    "alt": 68,
+    "postePublic": true
+  },
+  {
+    "id": "47280005",
+    "nom": "SAINT-SYLVESTRE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.812667,
+    "lat": 44.437333,
+    "alt": 136,
+    "postePublic": true
+  },
+  {
+    "id": "47310001",
+    "nom": "TONNEINS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.309833,
+    "lat": 44.393167,
+    "alt": 40,
+    "postePublic": true
+  },
+  {
+    "id": "47317002",
+    "nom": "VERTEUIL",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.416167,
+    "lat": 44.464,
+    "alt": 81,
+    "postePublic": true
+  },
+  {
+    "id": "47323001",
+    "nom": "VILLENEUVE-SUR-LOT-AERO",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.761833,
+    "lat": 44.3975,
+    "alt": 59,
+    "postePublic": true
+  },
+  {
+    "id": "47323002",
+    "nom": "VILLENEUVE-SUR-LOT",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.705,
+    "lat": 44.4,
+    "alt": 60,
+    "postePublic": true
+  },
+  {
+    "id": "47323004",
+    "nom": "VILLENEUVE-SUR-LOT",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 0.764,
+    "lat": 44.3975,
+    "alt": 59,
+    "postePublic": true
+  },
+  {
+    "id": "47327001",
+    "nom": "XAINTRAILLES",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 0.261167,
+    "lat": 44.205,
+    "alt": 190,
+    "postePublic": true
+  }
+]

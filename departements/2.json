@@ -1,0 +1,492 @@
+[
+  {
+    "id": "02031001",
+    "nom": "AUBENTON",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.2005,
+    "lat": 49.834,
+    "alt": 177,
+    "postePublic": true
+  },
+  {
+    "id": "02035001",
+    "nom": "AUDIGNY",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.65,
+    "lat": 49.866667,
+    "alt": 150,
+    "postePublic": true
+  },
+  {
+    "id": "02037002",
+    "nom": "AULNOIS-SS-LAON",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 3.610333,
+    "lat": 49.595667,
+    "alt": 78,
+    "postePublic": true
+  },
+  {
+    "id": "02058001",
+    "nom": "BEAURIEUX",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 3.732667,
+    "lat": 49.390333,
+    "alt": 56,
+    "postePublic": true
+  },
+  {
+    "id": "02085001",
+    "nom": "BEZU-SAINT-GERMAIN SANEF",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.393333,
+    "lat": 49.08,
+    "alt": 195,
+    "postePublic": true
+  },
+  {
+    "id": "02086001",
+    "nom": "BICHANCOURT",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.210833,
+    "lat": 49.579333,
+    "alt": 59,
+    "postePublic": true
+  },
+  {
+    "id": "02094001",
+    "nom": "BLESMES",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 3.462667,
+    "lat": 49.009667,
+    "alt": 222,
+    "postePublic": true
+  },
+  {
+    "id": "02110002",
+    "nom": "BRAINE",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 3.527,
+    "lat": 49.351333,
+    "alt": 61,
+    "postePublic": true
+  },
+  {
+    "id": "02153001",
+    "nom": "CESSIERES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.498333,
+    "lat": 49.553333,
+    "alt": 107,
+    "postePublic": true
+  },
+  {
+    "id": "02168001",
+    "nom": "CHATEAU-THIERRY",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.401667,
+    "lat": 49.045,
+    "alt": 64,
+    "postePublic": true
+  },
+  {
+    "id": "02173002",
+    "nom": "CHAUNY",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 3.197833,
+    "lat": 49.633833,
+    "alt": 83,
+    "postePublic": true
+  },
+  {
+    "id": "02197001",
+    "nom": "CLAIRFONTAINE",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 3.966667,
+    "lat": 49.966667,
+    "alt": 225,
+    "postePublic": true
+  },
+  {
+    "id": "02199001",
+    "nom": "CLASTRES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.2285,
+    "lat": 49.742833,
+    "alt": 75,
+    "postePublic": true
+  },
+  {
+    "id": "02217002",
+    "nom": "COUCY-LE-CHATEAU-AUFFRIQUE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.321667,
+    "lat": 49.518333,
+    "alt": 52,
+    "postePublic": true
+  },
+  {
+    "id": "02220001",
+    "nom": "COULONGES-COHAN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.605833,
+    "lat": 49.214167,
+    "alt": 168,
+    "postePublic": true
+  },
+  {
+    "id": "02239001",
+    "nom": "CREZANCY",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.5,
+    "lat": 49.05,
+    "alt": 125,
+    "postePublic": true
+  },
+  {
+    "id": "02278001",
+    "nom": "EPARCY",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.0595,
+    "lat": 49.875,
+    "alt": 161,
+    "postePublic": true
+  },
+  {
+    "id": "02298001",
+    "nom": "ETREUX",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.646833,
+    "lat": 49.987833,
+    "alt": 120,
+    "postePublic": true
+  },
+  {
+    "id": "02301002",
+    "nom": "FAUCOUCOURT",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.462167,
+    "lat": 49.527333,
+    "alt": 100,
+    "postePublic": true
+  },
+  {
+    "id": "02307001",
+    "nom": "LA FERTE-MILON",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.13,
+    "lat": 49.173333,
+    "alt": 65,
+    "postePublic": true
+  },
+  {
+    "id": "02308001",
+    "nom": "FESMY-LE-SART",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.726667,
+    "lat": 50.06,
+    "alt": 190,
+    "postePublic": true
+  },
+  {
+    "id": "02320001",
+    "nom": "ST QUENTIN",
+    "posteOuvert": true,
+    "typePoste": 0,
+    "lon": 3.206,
+    "lat": 49.818333,
+    "alt": 98,
+    "postePublic": true
+  },
+  {
+    "id": "02321001",
+    "nom": "FONTAINE-VV MAN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.8795,
+    "lat": 49.836333,
+    "alt": 184,
+    "postePublic": true
+  },
+  {
+    "id": "02321002",
+    "nom": "FONTAINE-LES-VV",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 3.877833,
+    "lat": 49.837333,
+    "alt": 186,
+    "postePublic": true
+  },
+  {
+    "id": "02346001",
+    "nom": "GIZY",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 3.781,
+    "lat": 49.599833,
+    "alt": 75,
+    "postePublic": true
+  },
+  {
+    "id": "02381001",
+    "nom": "HIRSON",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 4.077167,
+    "lat": 49.922,
+    "alt": 165,
+    "postePublic": true
+  },
+  {
+    "id": "02408002",
+    "nom": "LAON",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.596667,
+    "lat": 49.57,
+    "alt": 82,
+    "postePublic": true
+  },
+  {
+    "id": "02408003",
+    "nom": "LAON ECOLE NORMALE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.612167,
+    "lat": 49.559167,
+    "alt": 175,
+    "postePublic": true
+  },
+  {
+    "id": "02408022",
+    "nom": "LAON STATION AGRONOMIQUE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.605,
+    "lat": 49.570833,
+    "alt": 91,
+    "postePublic": true
+  },
+  {
+    "id": "02471001",
+    "nom": "MARTIGNY-COURPI",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 3.693167,
+    "lat": 49.485667,
+    "alt": 95,
+    "postePublic": true
+  },
+  {
+    "id": "02505001",
+    "nom": "MONTFAUCON",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.441,
+    "lat": 48.973333,
+    "alt": 217,
+    "postePublic": true
+  },
+  {
+    "id": "02558001",
+    "nom": "NOUVION-EN-T",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.7765,
+    "lat": 50.007833,
+    "alt": 182,
+    "postePublic": true
+  },
+  {
+    "id": "02580001",
+    "nom": "OULCHY-LE-CHATE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.417,
+    "lat": 49.208667,
+    "alt": 122,
+    "postePublic": true
+  },
+  {
+    "id": "02585001",
+    "nom": "PARCY-ET-TIGNY",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 3.331,
+    "lat": 49.280167,
+    "alt": 148,
+    "postePublic": true
+  },
+  {
+    "id": "02590001",
+    "nom": "PARGNY-LA-DHUYS LES SOURCES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.553333,
+    "lat": 48.953333,
+    "alt": 142,
+    "postePublic": true
+  },
+  {
+    "id": "02594001",
+    "nom": "PASSY EN VALOIS",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 3.199667,
+    "lat": 49.165167,
+    "alt": 141,
+    "postePublic": true
+  },
+  {
+    "id": "02602001",
+    "nom": "PINON",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.446667,
+    "lat": 49.488333,
+    "alt": 58,
+    "postePublic": true
+  },
+  {
+    "id": "02617001",
+    "nom": "POUILLY-SUR-SERRE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.597333,
+    "lat": 49.683833,
+    "alt": 68,
+    "postePublic": true
+  },
+  {
+    "id": "02626001",
+    "nom": "PROUVAIS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.970667,
+    "lat": 49.463333,
+    "alt": 105,
+    "postePublic": true
+  },
+  {
+    "id": "02643002",
+    "nom": "RESSONS LE LONG",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.147667,
+    "lat": 49.3835,
+    "alt": 133,
+    "postePublic": true
+  },
+  {
+    "id": "02651001",
+    "nom": "ROGECOURT MONTROUGE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.426667,
+    "lat": 49.651667,
+    "alt": 95,
+    "postePublic": true
+  },
+  {
+    "id": "02691001",
+    "nom": "ST-QUENTIN MAN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.303167,
+    "lat": 49.834167,
+    "alt": 78,
+    "postePublic": true
+  },
+  {
+    "id": "02705001",
+    "nom": "NIZY-LE-COMTE",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 4.0365,
+    "lat": 49.566,
+    "alt": 90,
+    "postePublic": true
+  },
+  {
+    "id": "02722002",
+    "nom": "SOISSONS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.310667,
+    "lat": 49.390667,
+    "alt": 40,
+    "postePublic": true
+  },
+  {
+    "id": "02734001",
+    "nom": "TAILLEFONTAINE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.044,
+    "lat": 49.312667,
+    "alt": 140,
+    "postePublic": true
+  },
+  {
+    "id": "02738001",
+    "nom": "TERGNIER",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 3.320667,
+    "lat": 49.663833,
+    "alt": 59,
+    "postePublic": true
+  },
+  {
+    "id": "02758001",
+    "nom": "VAILLY-SUR-AISN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.519333,
+    "lat": 49.412167,
+    "alt": 65,
+    "postePublic": true
+  },
+  {
+    "id": "02789001",
+    "nom": "VERVINS FPA - ECOLE AGRICOLE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.908333,
+    "lat": 49.835,
+    "alt": 180,
+    "postePublic": true
+  },
+  {
+    "id": "02810001",
+    "nom": "VILLERS-COTTERE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.083333,
+    "lat": 49.25,
+    "alt": 125,
+    "postePublic": true
+  }
+]

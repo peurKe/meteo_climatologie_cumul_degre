@@ -1,0 +1,852 @@
+[
+  {
+    "id": "34003001",
+    "nom": "AGDE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.516667,
+    "lat": 43.283333,
+    "alt": 2,
+    "postePublic": true
+  },
+  {
+    "id": "34008001",
+    "nom": "LES AIRES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.108333,
+    "lat": 43.584167,
+    "alt": 190,
+    "postePublic": true
+  },
+  {
+    "id": "34019001",
+    "nom": "AVENE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.11,
+    "lat": 43.755,
+    "alt": 301,
+    "postePublic": true
+  },
+  {
+    "id": "34026001",
+    "nom": "BEAUFORT",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.756667,
+    "lat": 43.298333,
+    "alt": 86,
+    "postePublic": true
+  },
+  {
+    "id": "34028001",
+    "nom": "BEDARIEUX",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.156667,
+    "lat": 43.615,
+    "alt": 224,
+    "postePublic": true
+  },
+  {
+    "id": "34028003",
+    "nom": "BEDARIEUX",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 3.146,
+    "lat": 43.639833,
+    "alt": 373,
+    "postePublic": true
+  },
+  {
+    "id": "34030002",
+    "nom": "BERLOU",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.963,
+    "lat": 43.490833,
+    "alt": 191,
+    "postePublic": true
+  },
+  {
+    "id": "34032002",
+    "nom": "BEZIERS-COURTADE",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 3.155,
+    "lat": 43.334333,
+    "alt": 25,
+    "postePublic": true
+  },
+  {
+    "id": "34032005",
+    "nom": "BEZIERS AGGLOMERATION",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.218333,
+    "lat": 43.345,
+    "alt": 62,
+    "postePublic": true
+  },
+  {
+    "id": "34032015",
+    "nom": "BEZIERS-BAYSSAN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.202167,
+    "lat": 43.302333,
+    "alt": 37,
+    "postePublic": true
+  },
+  {
+    "id": "34046002",
+    "nom": "SALVERGUES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.9,
+    "lat": 43.633333,
+    "alt": 1030,
+    "postePublic": true
+  },
+  {
+    "id": "34046005",
+    "nom": "CAMBON-ET-SALVERGUES",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 2.865333,
+    "lat": 43.622333,
+    "alt": 955,
+    "postePublic": true
+  },
+  {
+    "id": "34055003",
+    "nom": "CASTANET LE HAUT_SAPC",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 2.976167,
+    "lat": 43.6675,
+    "alt": 424,
+    "postePublic": true
+  },
+  {
+    "id": "34057001",
+    "nom": "CASTELNAU LE LE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.9,
+    "lat": 43.631667,
+    "alt": 31,
+    "postePublic": true
+  },
+  {
+    "id": "34064002",
+    "nom": "LE CAYLAR G.",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 3.325,
+    "lat": 43.86,
+    "alt": 730,
+    "postePublic": true
+  },
+  {
+    "id": "34064003",
+    "nom": "LE CAYLAR_SAPC",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 3.3085,
+    "lat": 43.867167,
+    "alt": 729,
+    "postePublic": true
+  },
+  {
+    "id": "34069001",
+    "nom": "CAZOULS-LES-BEZIERS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.097167,
+    "lat": 43.403,
+    "alt": 97,
+    "postePublic": true
+  },
+  {
+    "id": "34079003",
+    "nom": "CLERMONT-L'HERAULT",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.428333,
+    "lat": 43.626667,
+    "alt": 90,
+    "postePublic": true
+  },
+  {
+    "id": "34079004",
+    "nom": "CLERMONT L'HERAULT",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.3985,
+    "lat": 43.6565,
+    "alt": 145,
+    "postePublic": true
+  },
+  {
+    "id": "34086001",
+    "nom": "COURNIOU",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 2.695333,
+    "lat": 43.495,
+    "alt": 501,
+    "postePublic": true
+  },
+  {
+    "id": "34107003",
+    "nom": "FRAISSE-SUR-AGOUT",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.796667,
+    "lat": 43.606667,
+    "alt": 960,
+    "postePublic": true
+  },
+  {
+    "id": "34107004",
+    "nom": "FRAISSE SUR AGO",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.806667,
+    "lat": 43.603333,
+    "alt": 850,
+    "postePublic": true
+  },
+  {
+    "id": "34111001",
+    "nom": "GANGES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.710667,
+    "lat": 43.931833,
+    "alt": 149,
+    "postePublic": true
+  },
+  {
+    "id": "34113001",
+    "nom": "GIGEAN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.708333,
+    "lat": 43.498333,
+    "alt": 44,
+    "postePublic": true
+  },
+  {
+    "id": "34114001",
+    "nom": "GIGNAC",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 3.563333,
+    "lat": 43.663333,
+    "alt": 58,
+    "postePublic": true
+  },
+  {
+    "id": "34115001",
+    "nom": "ROC BLANC",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 3.633333,
+    "lat": 43.866667,
+    "alt": 942,
+    "postePublic": true
+  },
+  {
+    "id": "34119001",
+    "nom": "HEREPIAN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.113333,
+    "lat": 43.593333,
+    "alt": 192,
+    "postePublic": true
+  },
+  {
+    "id": "34135001",
+    "nom": "LESPIGNAN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.165,
+    "lat": 43.274,
+    "alt": 23,
+    "postePublic": true
+  },
+  {
+    "id": "34141001",
+    "nom": "LA LIVINIERE ECOLE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.635,
+    "lat": 43.316667,
+    "alt": 150,
+    "postePublic": true
+  },
+  {
+    "id": "34141002",
+    "nom": "LA LIVINIERE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.636167,
+    "lat": 43.314333,
+    "alt": 131,
+    "postePublic": true
+  },
+  {
+    "id": "34142001",
+    "nom": "LODEVE",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 3.303167,
+    "lat": 43.730333,
+    "alt": 184,
+    "postePublic": true
+  },
+  {
+    "id": "34144001",
+    "nom": "LUNAS",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 3.170667,
+    "lat": 43.695833,
+    "alt": 249,
+    "postePublic": true
+  },
+  {
+    "id": "34150001",
+    "nom": "MARSEILLAN-INRAE",
+    "posteOuvert": true,
+    "typePoste": 3,
+    "lon": 3.565333,
+    "lat": 43.328333,
+    "alt": 1,
+    "postePublic": true
+  },
+  {
+    "id": "34151001",
+    "nom": "MARSILLARGUES MAS DE BONY",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.178333,
+    "lat": 43.665,
+    "alt": 2,
+    "postePublic": true
+  },
+  {
+    "id": "34151003",
+    "nom": "MARSILLARGUES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.178333,
+    "lat": 43.665,
+    "alt": 2,
+    "postePublic": true
+  },
+  {
+    "id": "34151005",
+    "nom": "MARSILLARGUES",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 4.168,
+    "lat": 43.633833,
+    "alt": 4,
+    "postePublic": true
+  },
+  {
+    "id": "34154001",
+    "nom": "MONTPELLIER-AEROPORT",
+    "posteOuvert": true,
+    "typePoste": 0,
+    "lon": 3.964667,
+    "lat": 43.576167,
+    "alt": 1,
+    "postePublic": true
+  },
+  {
+    "id": "34162001",
+    "nom": "MONTAGNAC",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.556667,
+    "lat": 43.473333,
+    "alt": 45,
+    "postePublic": true
+  },
+  {
+    "id": "34163001",
+    "nom": "MONTARNAUD",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 3.688167,
+    "lat": 43.635833,
+    "alt": 148,
+    "postePublic": true
+  },
+  {
+    "id": "34172001",
+    "nom": "MONTPELLIER-ENSAM",
+    "posteOuvert": false,
+    "typePoste": 3,
+    "lon": 3.858333,
+    "lat": 43.618333,
+    "alt": 45,
+    "postePublic": true
+  },
+  {
+    "id": "34172002",
+    "nom": "ECOLE NORMALE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.873333,
+    "lat": 43.608333,
+    "alt": 37,
+    "postePublic": true
+  },
+  {
+    "id": "34172003",
+    "nom": "JARDIN PLANTES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.873333,
+    "lat": 43.608333,
+    "alt": 29,
+    "postePublic": true
+  },
+  {
+    "id": "34172007",
+    "nom": "ECOLE AGRICOLE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.873333,
+    "lat": 43.608333,
+    "alt": 43,
+    "postePublic": true
+  },
+  {
+    "id": "34172009",
+    "nom": "MONTPELLIER ECOLE REGIMENTAIRE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.873333,
+    "lat": 43.608333,
+    "alt": 37,
+    "postePublic": true
+  },
+  {
+    "id": "34174002",
+    "nom": "MOULES-ET-BAUCELS",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 3.752,
+    "lat": 43.948,
+    "alt": 252,
+    "postePublic": true
+  },
+  {
+    "id": "34178001",
+    "nom": "MURVIEL LES BEZIERS",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 3.146,
+    "lat": 43.476,
+    "alt": 140,
+    "postePublic": true
+  },
+  {
+    "id": "34186001",
+    "nom": "OCTON",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.306167,
+    "lat": 43.655,
+    "alt": 184,
+    "postePublic": true
+  },
+  {
+    "id": "34192002",
+    "nom": "PALAVAS-LES-FLOTS-AGG",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.935,
+    "lat": 43.528333,
+    "alt": 2,
+    "postePublic": true
+  },
+  {
+    "id": "34199003",
+    "nom": "PEZENAS AGGLOMERATION",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.425,
+    "lat": 43.46,
+    "alt": 17,
+    "postePublic": true
+  },
+  {
+    "id": "34205001",
+    "nom": "LES PLANS",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 3.246167,
+    "lat": 43.786,
+    "alt": 846,
+    "postePublic": true
+  },
+  {
+    "id": "34205002",
+    "nom": "LES PLANS-SPC",
+    "posteOuvert": true,
+    "typePoste": 5,
+    "lon": 3.243,
+    "lat": 43.761,
+    "alt": 329,
+    "postePublic": true
+  },
+  {
+    "id": "34209002",
+    "nom": "BEZIERS-VIAS",
+    "posteOuvert": true,
+    "typePoste": 0,
+    "lon": 3.352667,
+    "lat": 43.322,
+    "alt": 15,
+    "postePublic": true
+  },
+  {
+    "id": "34210001",
+    "nom": "LE POUGET",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.521667,
+    "lat": 43.581667,
+    "alt": 70,
+    "postePublic": true
+  },
+  {
+    "id": "34217001",
+    "nom": "PRADES LE LEZ",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 3.866667,
+    "lat": 43.718333,
+    "alt": 69,
+    "postePublic": true
+  },
+  {
+    "id": "34232001",
+    "nom": "ROQUEBRUN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.028333,
+    "lat": 43.501667,
+    "alt": 155,
+    "postePublic": true
+  },
+  {
+    "id": "34233001",
+    "nom": "ROQUEREDONDE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.212667,
+    "lat": 43.8,
+    "alt": 685,
+    "postePublic": true
+  },
+  {
+    "id": "34237001",
+    "nom": "ROUJAN-INRAE",
+    "posteOuvert": true,
+    "typePoste": 3,
+    "lon": 3.321333,
+    "lat": 43.491667,
+    "alt": 73,
+    "postePublic": true
+  },
+  {
+    "id": "34239002",
+    "nom": "ST ANDRE DE SANGONIS",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 3.507833,
+    "lat": 43.664167,
+    "alt": 86,
+    "postePublic": true
+  },
+  {
+    "id": "34249002",
+    "nom": "ST DREZERY",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.993333,
+    "lat": 43.728833,
+    "alt": 71,
+    "postePublic": true
+  },
+  {
+    "id": "34255001",
+    "nom": "ST GELY DU FESC",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.805,
+    "lat": 43.691667,
+    "alt": 100,
+    "postePublic": true
+  },
+  {
+    "id": "34255002",
+    "nom": "SAINT-GELY-DU-FESC",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.805,
+    "lat": 43.691667,
+    "alt": 185,
+    "postePublic": true
+  },
+  {
+    "id": "34258001",
+    "nom": "ST GENIES LE BA",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.18,
+    "lat": 43.468333,
+    "alt": 93,
+    "postePublic": true
+  },
+  {
+    "id": "34269001",
+    "nom": "ST JEAN DE MINERVOIS",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 2.857667,
+    "lat": 43.385667,
+    "alt": 258,
+    "postePublic": true
+  },
+  {
+    "id": "34274001",
+    "nom": "ST MARTIN DE LONDRES",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 3.729333,
+    "lat": 43.7795,
+    "alt": 214,
+    "postePublic": true
+  },
+  {
+    "id": "34276002",
+    "nom": "TREVIERS GEND",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.858333,
+    "lat": 43.768333,
+    "alt": 104,
+    "postePublic": true
+  },
+  {
+    "id": "34276003",
+    "nom": "ST MATHIEU",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.858333,
+    "lat": 43.768333,
+    "alt": 130,
+    "postePublic": true
+  },
+  {
+    "id": "34277001",
+    "nom": "ST MAURICE-NAVACELLE",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 3.522333,
+    "lat": 43.841333,
+    "alt": 584,
+    "postePublic": true
+  },
+  {
+    "id": "34300001",
+    "nom": "SERVIAN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.3315,
+    "lat": 43.442167,
+    "alt": 66,
+    "postePublic": true
+  },
+  {
+    "id": "34300002",
+    "nom": "SERVIAN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.304,
+    "lat": 43.413167,
+    "alt": 52,
+    "postePublic": true
+  },
+  {
+    "id": "34301002",
+    "nom": "SETE",
+    "posteOuvert": true,
+    "typePoste": 0,
+    "lon": 3.692167,
+    "lat": 43.397333,
+    "alt": 75,
+    "postePublic": true
+  },
+  {
+    "id": "34301003",
+    "nom": "SETE - PC",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.695,
+    "lat": 43.406667,
+    "alt": 2,
+    "postePublic": true
+  },
+  {
+    "id": "34301004",
+    "nom": "SETE CAP DE VIGIE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.685333,
+    "lat": 43.4025,
+    "alt": 184,
+    "postePublic": true
+  },
+  {
+    "id": "34301006",
+    "nom": "SETE AGGLOMERATION",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.695,
+    "lat": 43.406667,
+    "alt": 24,
+    "postePublic": true
+  },
+  {
+    "id": "34302001",
+    "nom": "SIRAN",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 2.675167,
+    "lat": 43.3265,
+    "alt": 137,
+    "postePublic": true
+  },
+  {
+    "id": "34306001",
+    "nom": "SOUMONT",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 3.3475,
+    "lat": 43.707,
+    "alt": 252,
+    "postePublic": true
+  },
+  {
+    "id": "34311001",
+    "nom": "PEZENAS-TOURBES",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 3.400333,
+    "lat": 43.437667,
+    "alt": 40,
+    "postePublic": true
+  },
+  {
+    "id": "34317001",
+    "nom": "LA VACQUERIE_SAPC",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 3.457833,
+    "lat": 43.792,
+    "alt": 620,
+    "postePublic": true
+  },
+  {
+    "id": "34319001",
+    "nom": "VAILHAN",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 3.299333,
+    "lat": 43.546833,
+    "alt": 122,
+    "postePublic": true
+  },
+  {
+    "id": "34322003",
+    "nom": "VALFLAUNES-PLAINE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.844667,
+    "lat": 43.788167,
+    "alt": 126,
+    "postePublic": true
+  },
+  {
+    "id": "34324001",
+    "nom": "VALRAS PLAGE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.301667,
+    "lat": 43.251667,
+    "alt": 2,
+    "postePublic": true
+  },
+  {
+    "id": "34330001",
+    "nom": "VERARGUES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.096667,
+    "lat": 43.721333,
+    "alt": 56,
+    "postePublic": true
+  },
+  {
+    "id": "34330002",
+    "nom": "VERARGUES SA",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 4.083333,
+    "lat": 43.7,
+    "alt": 27,
+    "postePublic": true
+  },
+  {
+    "id": "34337001",
+    "nom": "VILLENEUVE-LES-MAG-INRAE",
+    "posteOuvert": true,
+    "typePoste": 3,
+    "lon": 3.853833,
+    "lat": 43.538167,
+    "alt": 20,
+    "postePublic": true
+  },
+  {
+    "id": "34339001",
+    "nom": "VILLESPASSANS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.881,
+    "lat": 43.364333,
+    "alt": 219,
+    "postePublic": true
+  },
+  {
+    "id": "34344001",
+    "nom": "LA GRANDE MOTTE",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 4.082,
+    "lat": 43.5565,
+    "alt": 2,
+    "postePublic": true
+  }
+]

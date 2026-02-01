@@ -1,0 +1,652 @@
+[
+  {
+    "id": "67021001",
+    "nom": "BARR",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.460167,
+    "lat": 48.408333,
+    "alt": 193,
+    "postePublic": true
+  },
+  {
+    "id": "67021002",
+    "nom": "BARR",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.453167,
+    "lat": 48.4125,
+    "alt": 210,
+    "postePublic": true
+  },
+  {
+    "id": "67027001",
+    "nom": "BELMONT",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 7.267167,
+    "lat": 48.406333,
+    "alt": 1065,
+    "postePublic": true
+  },
+  {
+    "id": "67029001",
+    "nom": "BERG",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 7.151667,
+    "lat": 48.884333,
+    "alt": 350,
+    "postePublic": true
+  },
+  {
+    "id": "67067001",
+    "nom": "BRUMATH",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 7.709667,
+    "lat": 48.724667,
+    "alt": 139,
+    "postePublic": true
+  },
+  {
+    "id": "67077002",
+    "nom": "COSSWILLER BISC",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 7.345,
+    "lat": 48.61,
+    "alt": 444,
+    "postePublic": true
+  },
+  {
+    "id": "67083002",
+    "nom": "DAMBACH_SAPC",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 7.661667,
+    "lat": 48.999333,
+    "alt": 234,
+    "postePublic": true
+  },
+  {
+    "id": "67090001",
+    "nom": "DIEBOLSHEIM",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.666167,
+    "lat": 48.2865,
+    "alt": 162,
+    "postePublic": true
+  },
+  {
+    "id": "67115001",
+    "nom": "EBERSHEIM",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 7.4945,
+    "lat": 48.3085,
+    "alt": 164,
+    "postePublic": true
+  },
+  {
+    "id": "67122001",
+    "nom": "WANGENBOURG_SAPC",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 7.307,
+    "lat": 48.6425,
+    "alt": 460,
+    "postePublic": true
+  },
+  {
+    "id": "67124001",
+    "nom": "STRASBOURG-ENTZHEIM",
+    "posteOuvert": true,
+    "typePoste": 0,
+    "lon": 7.640333,
+    "lat": 48.5495,
+    "alt": 150,
+    "postePublic": true
+  },
+  {
+    "id": "67125001",
+    "nom": "EPFIG",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.463333,
+    "lat": 48.36,
+    "alt": 220,
+    "postePublic": true
+  },
+  {
+    "id": "67126002",
+    "nom": "ERCKARTSWILLER_SAPC",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 7.364167,
+    "lat": 48.873,
+    "alt": 245,
+    "postePublic": true
+  },
+  {
+    "id": "67130001",
+    "nom": "ERSTEIN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.663333,
+    "lat": 48.42,
+    "alt": 155,
+    "postePublic": true
+  },
+  {
+    "id": "67130003",
+    "nom": "ERSTEIN SA",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 7.648333,
+    "lat": 48.418333,
+    "alt": 155,
+    "postePublic": true
+  },
+  {
+    "id": "67151001",
+    "nom": "GAMBSHEIM",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.883333,
+    "lat": 48.7,
+    "alt": 129,
+    "postePublic": true
+  },
+  {
+    "id": "67160001",
+    "nom": "GOERSDORF",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.768333,
+    "lat": 48.951667,
+    "alt": 222,
+    "postePublic": true
+  },
+  {
+    "id": "67165001",
+    "nom": "COL DU DONON",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.113333,
+    "lat": 48.525,
+    "alt": 730,
+    "postePublic": true
+  },
+  {
+    "id": "67165003",
+    "nom": "GRANDFONTAINE - MF",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.116667,
+    "lat": 48.516667,
+    "alt": 515,
+    "postePublic": true
+  },
+  {
+    "id": "67165006",
+    "nom": "GRANDFONTAINE_SAPC",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 7.148,
+    "lat": 48.507667,
+    "alt": 736,
+    "postePublic": true
+  },
+  {
+    "id": "67180001",
+    "nom": "HAGUENAU",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 7.801167,
+    "lat": 48.836333,
+    "alt": 153,
+    "postePublic": true
+  },
+  {
+    "id": "67180004",
+    "nom": "HAGUENAU - MF STIEFELHARDT",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.833333,
+    "lat": 48.816667,
+    "alt": 140,
+    "postePublic": true
+  },
+  {
+    "id": "67180008",
+    "nom": "HAGUENAU - VILLE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.783333,
+    "lat": 48.816667,
+    "alt": 148,
+    "postePublic": true
+  },
+  {
+    "id": "67186001",
+    "nom": "HEGENEY SA",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 7.735833,
+    "lat": 48.888667,
+    "alt": 185,
+    "postePublic": true
+  },
+  {
+    "id": "67210001",
+    "nom": "LE HOHWALD",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.349667,
+    "lat": 48.414667,
+    "alt": 785,
+    "postePublic": true
+  },
+  {
+    "id": "67210002",
+    "nom": "LE HOHWALD_SAPC",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 7.33,
+    "lat": 48.4015,
+    "alt": 591,
+    "postePublic": true
+  },
+  {
+    "id": "67210004",
+    "nom": "LE HOHWALD",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.331667,
+    "lat": 48.403333,
+    "alt": 935,
+    "postePublic": true
+  },
+  {
+    "id": "67210005",
+    "nom": "LE HOHWALD - MELKEREIFELSEN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.331667,
+    "lat": 48.403333,
+    "alt": 778,
+    "postePublic": true
+  },
+  {
+    "id": "67217001",
+    "nom": "ICHTRATZHEIM",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.68,
+    "lat": 48.476667,
+    "alt": 145,
+    "postePublic": true
+  },
+  {
+    "id": "67261003",
+    "nom": "LAUTERBOURG SA",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 8.166667,
+    "lat": 48.97,
+    "alt": 110,
+    "postePublic": true
+  },
+  {
+    "id": "67314001",
+    "nom": "STRUTHOF",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.258333,
+    "lat": 48.436667,
+    "alt": 510,
+    "postePublic": true
+  },
+  {
+    "id": "67320001",
+    "nom": "NEUVE EGLISE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.313333,
+    "lat": 48.328333,
+    "alt": 268,
+    "postePublic": true
+  },
+  {
+    "id": "67340001",
+    "nom": "ZINSWILLER",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.593333,
+    "lat": 48.923333,
+    "alt": 201,
+    "postePublic": true
+  },
+  {
+    "id": "67371002",
+    "nom": "PETITE PIERRE",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 7.301667,
+    "lat": 48.865,
+    "alt": 366,
+    "postePublic": true
+  },
+  {
+    "id": "67374001",
+    "nom": "PFETTISHEIM REK",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 7.646667,
+    "lat": 48.658333,
+    "alt": 155,
+    "postePublic": true
+  },
+  {
+    "id": "67379001",
+    "nom": "PREUSCHDORF",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.803833,
+    "lat": 48.943167,
+    "alt": 167,
+    "postePublic": true
+  },
+  {
+    "id": "67414001",
+    "nom": "ROTHAU SA",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 7.2,
+    "lat": 48.446667,
+    "alt": 380,
+    "postePublic": true
+  },
+  {
+    "id": "67414002",
+    "nom": "ROTHAU - LA CLAQUETTE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.208333,
+    "lat": 48.453333,
+    "alt": 330,
+    "postePublic": true
+  },
+  {
+    "id": "67414003",
+    "nom": "ROTHAU - PRESBYTERE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.208333,
+    "lat": 48.453333,
+    "alt": 347,
+    "postePublic": true
+  },
+  {
+    "id": "67421001",
+    "nom": "SAALES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.103333,
+    "lat": 48.361667,
+    "alt": 630,
+    "postePublic": true
+  },
+  {
+    "id": "67421002",
+    "nom": "SAALES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.108333,
+    "lat": 48.348333,
+    "alt": 645,
+    "postePublic": true
+  },
+  {
+    "id": "67437001",
+    "nom": "SAVERNE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.35,
+    "lat": 48.733333,
+    "alt": 210,
+    "postePublic": true
+  },
+  {
+    "id": "67443001",
+    "nom": "SCHEIBENHARD",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 8.1455,
+    "lat": 48.964167,
+    "alt": 144,
+    "postePublic": true
+  },
+  {
+    "id": "67460001",
+    "nom": "SCHWINDRATZHEIM",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 7.598333,
+    "lat": 48.768333,
+    "alt": 206,
+    "postePublic": true
+  },
+  {
+    "id": "67462001",
+    "nom": "SELESTAT",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.45,
+    "lat": 48.266667,
+    "alt": 182,
+    "postePublic": true
+  },
+  {
+    "id": "67462003",
+    "nom": "SELESTAT SAD",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 7.48,
+    "lat": 48.271667,
+    "alt": 172,
+    "postePublic": true
+  },
+  {
+    "id": "67462004",
+    "nom": "SELESTAT SA",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 7.478333,
+    "lat": 48.272833,
+    "alt": 173,
+    "postePublic": true
+  },
+  {
+    "id": "67476001",
+    "nom": "STATTMATTEN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 8.001333,
+    "lat": 48.794167,
+    "alt": 120,
+    "postePublic": true
+  },
+  {
+    "id": "67476002",
+    "nom": "STATTMATTEN SA",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 8.002333,
+    "lat": 48.795167,
+    "alt": 121,
+    "postePublic": true
+  },
+  {
+    "id": "67482001",
+    "nom": "STRASBOURG - BOTANIQUE",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 7.768833,
+    "lat": 48.581833,
+    "alt": 139,
+    "postePublic": true
+  },
+  {
+    "id": "67482005",
+    "nom": "STRASBOURG - UNIVERSITE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.753833,
+    "lat": 48.562,
+    "alt": 144,
+    "postePublic": true
+  },
+  {
+    "id": "67482008",
+    "nom": "STRASBOURG - OBSERVATOIRE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.768667,
+    "lat": 48.582167,
+    "alt": 144,
+    "postePublic": true
+  },
+  {
+    "id": "67482010",
+    "nom": "STRASBOURG - PORTE DE L'ILL",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.768333,
+    "lat": 48.581667,
+    "alt": 139,
+    "postePublic": true
+  },
+  {
+    "id": "67482014",
+    "nom": "STRASBOURG - POLYGONE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.778167,
+    "lat": 48.553,
+    "alt": 139,
+    "postePublic": true
+  },
+  {
+    "id": "67486001",
+    "nom": "SUNDHOUSE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.603333,
+    "lat": 48.251667,
+    "alt": 160,
+    "postePublic": true
+  },
+  {
+    "id": "67490001",
+    "nom": "THANVILLE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.350333,
+    "lat": 48.3225,
+    "alt": 232,
+    "postePublic": true
+  },
+  {
+    "id": "67492001",
+    "nom": "TRAENHEIM SA",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 7.47,
+    "lat": 48.593333,
+    "alt": 210,
+    "postePublic": true
+  },
+  {
+    "id": "67492002",
+    "nom": "TRAENHEIM",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.473333,
+    "lat": 48.595,
+    "alt": 210,
+    "postePublic": true
+  },
+  {
+    "id": "67498001",
+    "nom": "UHRWILLER_SAPC",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 7.5815,
+    "lat": 48.883667,
+    "alt": 217,
+    "postePublic": true
+  },
+  {
+    "id": "67507003",
+    "nom": "VILLE",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 7.306167,
+    "lat": 48.343,
+    "alt": 264,
+    "postePublic": true
+  },
+  {
+    "id": "67513001",
+    "nom": "BELMONT",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.276667,
+    "lat": 48.411667,
+    "alt": 1069,
+    "postePublic": true
+  },
+  {
+    "id": "67516001",
+    "nom": "WALTENHEIM-SUR-ZORN",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 7.61,
+    "lat": 48.7435,
+    "alt": 252,
+    "postePublic": true
+  },
+  {
+    "id": "67519001",
+    "nom": "LA WANTZENAU SA",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 7.832333,
+    "lat": 48.634167,
+    "alt": 135,
+    "postePublic": true
+  },
+  {
+    "id": "67544003",
+    "nom": "WISSEMBOURG - PV",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.935333,
+    "lat": 49.036167,
+    "alt": 182,
+    "postePublic": true
+  },
+  {
+    "id": "67544004",
+    "nom": "WISSEMBOURG",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 7.94,
+    "lat": 49.036667,
+    "alt": 172,
+    "postePublic": true
+  }
+]

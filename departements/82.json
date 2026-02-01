@@ -1,0 +1,332 @@
+[
+  {
+    "id": "82005001",
+    "nom": "AUCAMVILLE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.266667,
+    "lat": 43.791667,
+    "alt": 120,
+    "postePublic": true
+  },
+  {
+    "id": "82013001",
+    "nom": "BEAUMONT",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.987167,
+    "lat": 43.8855,
+    "alt": 137,
+    "postePublic": true
+  },
+  {
+    "id": "82018003",
+    "nom": "BIOULE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.508167,
+    "lat": 44.097333,
+    "alt": 92,
+    "postePublic": true
+  },
+  {
+    "id": "82033005",
+    "nom": "CASTELSARRASIN",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 1.129667,
+    "lat": 44.087,
+    "alt": 72,
+    "postePublic": true
+  },
+  {
+    "id": "82033006",
+    "nom": "CASTEL-LAVALADE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.136833,
+    "lat": 44.091833,
+    "alt": 70,
+    "postePublic": true
+  },
+  {
+    "id": "82033007",
+    "nom": "CASTEL-VIGOUSE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.118333,
+    "lat": 44.061667,
+    "alt": 83,
+    "postePublic": true
+  },
+  {
+    "id": "82038001",
+    "nom": "CAYLUS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.7775,
+    "lat": 44.236667,
+    "alt": 223,
+    "postePublic": true
+  },
+  {
+    "id": "82038006",
+    "nom": "CAYLUS",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 1.704167,
+    "lat": 44.220167,
+    "alt": 274,
+    "postePublic": true
+  },
+  {
+    "id": "82039001",
+    "nom": "CAYRAC",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 1.503333,
+    "lat": 44.115,
+    "alt": 132,
+    "postePublic": true
+  },
+  {
+    "id": "82039002",
+    "nom": "CAYRAC-REALVIL",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.486667,
+    "lat": 44.111667,
+    "alt": 90,
+    "postePublic": true
+  },
+  {
+    "id": "82044001",
+    "nom": "CORBARIEU",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.385667,
+    "lat": 43.927167,
+    "alt": 89,
+    "postePublic": true
+  },
+  {
+    "id": "82049001",
+    "nom": "DONZAC",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.815,
+    "lat": 44.086667,
+    "alt": 145,
+    "postePublic": true
+  },
+  {
+    "id": "82049002",
+    "nom": "DONZAC-DUNES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.79,
+    "lat": 44.098333,
+    "alt": 83,
+    "postePublic": true
+  },
+  {
+    "id": "82051001",
+    "nom": "DURFORT",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.166667,
+    "lat": 44.175667,
+    "alt": 151,
+    "postePublic": true
+  },
+  {
+    "id": "82069001",
+    "nom": "GINALS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.866167,
+    "lat": 44.213833,
+    "alt": 319,
+    "postePublic": true
+  },
+  {
+    "id": "82072001",
+    "nom": "GOLFECH CANTAROU",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.85,
+    "lat": 44.113333,
+    "alt": 59,
+    "postePublic": true
+  },
+  {
+    "id": "82073001",
+    "nom": "GOUDOURVILLE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.947333,
+    "lat": 44.104167,
+    "alt": 75,
+    "postePublic": true
+  },
+  {
+    "id": "82094004",
+    "nom": "LAUZERTE",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 1.1155,
+    "lat": 44.271,
+    "alt": 231,
+    "postePublic": true
+  },
+  {
+    "id": "82117001",
+    "nom": "MONTAIGU",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.004833,
+    "lat": 44.322333,
+    "alt": 225,
+    "postePublic": true
+  },
+  {
+    "id": "82121002",
+    "nom": "MONTAUBAN",
+    "posteOuvert": true,
+    "typePoste": 0,
+    "lon": 1.376667,
+    "lat": 44.028,
+    "alt": 106,
+    "postePublic": true
+  },
+  {
+    "id": "82128001",
+    "nom": "MONTFERMIER",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.424667,
+    "lat": 44.238667,
+    "alt": 162,
+    "postePublic": true
+  },
+  {
+    "id": "82132002",
+    "nom": "MONTRICOUX",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.607,
+    "lat": 44.085333,
+    "alt": 108,
+    "postePublic": true
+  },
+  {
+    "id": "82151001",
+    "nom": "ROQUECOR",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.936667,
+    "lat": 44.325,
+    "alt": 218,
+    "postePublic": true
+  },
+  {
+    "id": "82155003",
+    "nom": "ST-ANTONIN-TEUS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.798167,
+    "lat": 44.142167,
+    "alt": 125,
+    "postePublic": true
+  },
+  {
+    "id": "82174001",
+    "nom": "ST-VINCENT",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 1.466167,
+    "lat": 44.173167,
+    "alt": 191,
+    "postePublic": true
+  },
+  {
+    "id": "82178001",
+    "nom": "SAVENES_MAN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.186167,
+    "lat": 43.854167,
+    "alt": 117,
+    "postePublic": true
+  },
+  {
+    "id": "82178002",
+    "nom": "SAVENES",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 1.175,
+    "lat": 43.824167,
+    "alt": 156,
+    "postePublic": true
+  },
+  {
+    "id": "82179001",
+    "nom": "SEPTFONDS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.634667,
+    "lat": 44.1895,
+    "alt": 196,
+    "postePublic": true
+  },
+  {
+    "id": "82180001",
+    "nom": "SERIGNAC",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 1.068333,
+    "lat": 43.931833,
+    "alt": 151,
+    "postePublic": true
+  },
+  {
+    "id": "82186001",
+    "nom": "VALENCE VILLE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.898333,
+    "lat": 44.116667,
+    "alt": 60,
+    "postePublic": true
+  },
+  {
+    "id": "82186003",
+    "nom": "VALENCE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.873,
+    "lat": 44.116667,
+    "alt": 67,
+    "postePublic": true
+  },
+  {
+    "id": "82193001",
+    "nom": "VIGUERON",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.054667,
+    "lat": 43.879167,
+    "alt": 223,
+    "postePublic": true
+  },
+  {
+    "id": "82194003",
+    "nom": "VILLEBRUMIER",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.4475,
+    "lat": 43.904833,
+    "alt": 93,
+    "postePublic": true
+  }
+]

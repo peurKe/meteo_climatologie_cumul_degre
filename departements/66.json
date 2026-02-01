@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "66002001",
+    "nom": "ALENYA-INRAE",
+    "posteOuvert": true,
+    "typePoste": 5,
+    "lon": 2.966667,
+    "lat": 42.638333,
+    "alt": 5,
+    "postePublic": true
+  },
+  {
+    "id": "66003001",
+    "nom": "AMELIE-LES-BAINS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.665167,
+    "lat": 42.4775,
+    "alt": 252,
+    "postePublic": true
+  },
+  {
+    "id": "66003002",
+    "nom": "AMELIE-LES-BAINS-PALALDA",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.67,
+    "lat": 42.475,
+    "alt": 234,
+    "postePublic": true
+  },
+  {
+    "id": "66003003",
+    "nom": "AMELIE-LES-BAINS-PALALDA",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.67,
+    "lat": 42.473333,
+    "alt": 228,
+    "postePublic": true
+  },
+  {
+    "id": "66004001",
+    "nom": "ANGLES_LES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.005,
+    "lat": 42.56,
+    "alt": 2017,
+    "postePublic": true
+  },
+  {
+    "id": "66004401",
+    "nom": "Les Angles",
+    "posteOuvert": true,
+    "typePoste": 4,
+    "lon": 2.051667,
+    "lat": 42.571667,
+    "alt": 2108,
+    "postePublic": true
+  },
+  {
+    "id": "66005001",
+    "nom": "ANGOUSTRINE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.953333,
+    "lat": 42.486667,
+    "alt": 1381,
+    "postePublic": true
+  },
+  {
+    "id": "66008003",
+    "nom": "ARGELES-SUR-MER",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.006667,
+    "lat": 42.54,
+    "alt": 28,
+    "postePublic": true
+  },
+  {
+    "id": "66013001",
+    "nom": "BAILLESTAVY",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.528333,
+    "lat": 42.563333,
+    "alt": 585,
+    "postePublic": true
+  },
+  {
+    "id": "66016001",
+    "nom": "BANYULS-SUR-MER",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.116667,
+    "lat": 42.473333,
+    "alt": 80,
+    "postePublic": true
+  },
+  {
+    "id": "66016002",
+    "nom": "BANYULS-SUR-MER SANATORIUM",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.128333,
+    "lat": 42.483333,
+    "alt": 7,
+    "postePublic": true
+  },
+  {
+    "id": "66017003",
+    "nom": "BARCARES(LE)",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.036667,
+    "lat": 42.798333,
+    "alt": 3,
+    "postePublic": true
+  },
+  {
+    "id": "66018001",
+    "nom": "BASTIDE(LA)",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.588333,
+    "lat": 42.546667,
+    "alt": 795,
+    "postePublic": true
+  },
+  {
+    "id": "66019001",
+    "nom": "BELESTA CHATEAU DE CALADROY",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.605,
+    "lat": 42.718333,
+    "alt": 300,
+    "postePublic": true
+  },
+  {
+    "id": "66024001",
+    "nom": "LE BOULOU",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 2.8435,
+    "lat": 42.5285,
+    "alt": 77,
+    "postePublic": true
+  },
+  {
+    "id": "66024002",
+    "nom": "LE BOULOU",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.83,
+    "lat": 42.523333,
+    "alt": 90,
+    "postePublic": true
+  },
+  {
+    "id": "66029003",
+    "nom": "CAIXAS",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 2.679833,
+    "lat": 42.587333,
+    "alt": 347,
+    "postePublic": true
+  },
+  {
+    "id": "66037001",
+    "nom": "CANET-EN-ROUSSILLON",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 2.983667,
+    "lat": 42.686833,
+    "alt": 16,
+    "postePublic": true
+  },
+  {
+    "id": "66038003",
+    "nom": "CANOHES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.831667,
+    "lat": 42.653333,
+    "alt": 73,
+    "postePublic": true
+  },
+  {
+    "id": "66039001",
+    "nom": "CARAMANY",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.57,
+    "lat": 42.738333,
+    "alt": 190,
+    "postePublic": true
+  },
+  {
+    "id": "66048003",
+    "nom": "CERBERE AGGLOMERATION",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.165,
+    "lat": 42.438333,
+    "alt": 21,
+    "postePublic": true
+  },
+  {
+    "id": "66049001",
+    "nom": "CERET",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 2.7475,
+    "lat": 42.496333,
+    "alt": 146,
+    "postePublic": true
+  },
+  {
+    "id": "66052001",
+    "nom": "CODALET",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.418333,
+    "lat": 42.596667,
+    "alt": 450,
+    "postePublic": true
+  },
+  {
+    "id": "66053001",
+    "nom": "COLLIOURE AGGLOMERATION",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.083333,
+    "lat": 42.526667,
+    "alt": 19,
+    "postePublic": true
+  },
+  {
+    "id": "66056001",
+    "nom": "CORBERE-LES-CABANES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.675,
+    "lat": 42.658333,
+    "alt": 180,
+    "postePublic": true
+  },
+  {
+    "id": "66060001",
+    "nom": "MINESBAT",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.545,
+    "lat": 42.501667,
+    "alt": 1462,
+    "postePublic": true
+  },
+  {
+    "id": "66060003",
+    "nom": "CORSAVY",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.553333,
+    "lat": 42.496667,
+    "alt": 1160,
+    "postePublic": true
+  },
+  {
+    "id": "66067402",
+    "nom": "PUIGMAL-NIVOSE",
+    "posteOuvert": true,
+    "typePoste": 3,
+    "lon": 2.095333,
+    "lat": 42.384667,
+    "alt": 2471,
+    "postePublic": true
+  },
+  {
+    "id": "66074002",
+    "nom": "EUS",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 2.446333,
+    "lat": 42.630167,
+    "alt": 321,
+    "postePublic": true
+  },
+  {
+    "id": "66078001",
+    "nom": "FILLOLS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.41,
+    "lat": 42.561667,
+    "alt": 725,
+    "postePublic": true
+  },
+  {
+    "id": "66082001",
+    "nom": "FORMIGUERES",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 2.105,
+    "lat": 42.613333,
+    "alt": 1530,
+    "postePublic": true
+  },
+  {
+    "id": "66082003",
+    "nom": "FORMIGUERES AGGLOMERATION",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.1,
+    "lat": 42.615,
+    "alt": 1480,
+    "postePublic": true
+  },
+  {
+    "id": "66082004",
+    "nom": "FORMIGUERES",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 2.111333,
+    "lat": 42.616,
+    "alt": 1495,
+    "postePublic": true
+  },
+  {
+    "id": "66082400",
+    "nom": "FORMIGUERE",
+    "posteOuvert": true,
+    "typePoste": 4,
+    "lon": 2.068333,
+    "lat": 42.623667,
+    "alt": 1753,
+    "postePublic": true
+  },
+  {
+    "id": "66088003",
+    "nom": "ILLE-SUR-TET",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 2.614167,
+    "lat": 42.659833,
+    "alt": 158,
+    "postePublic": true
+  },
+  {
+    "id": "66094001",
+    "nom": "LATOUR-BAS-ELNE MAS BLANC",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.001667,
+    "lat": 42.606667,
+    "alt": 4,
+    "postePublic": true
+  },
+  {
+    "id": "66098001",
+    "nom": "LA LLAGONNE AERO",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.12,
+    "lat": 42.526667,
+    "alt": 1710,
+    "postePublic": true
+  },
+  {
+    "id": "66098400",
+    "nom": "CAPCIR NORDIQUE",
+    "posteOuvert": true,
+    "typePoste": 4,
+    "lon": 2.143,
+    "lat": 42.534667,
+    "alt": 1868,
+    "postePublic": true
+  },
+  {
+    "id": "66105001",
+    "nom": "MATEMALE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.118333,
+    "lat": 42.588333,
+    "alt": 1520,
+    "postePublic": true
+  },
+  {
+    "id": "66107001",
+    "nom": "MAURY RUE JEAN FLAMAND",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.593333,
+    "lat": 42.811667,
+    "alt": 167,
+    "postePublic": true
+  },
+  {
+    "id": "66108001",
+    "nom": "MILLAS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.693333,
+    "lat": 42.69,
+    "alt": 103,
+    "postePublic": true
+  },
+  {
+    "id": "66108002",
+    "nom": "MILLAS MAS DE LA SELVE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.695,
+    "lat": 42.691667,
+    "alt": 95,
+    "postePublic": true
+  },
+  {
+    "id": "66109002",
+    "nom": "MOLITG-LES-BAINS AGGLOMERATION",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.386667,
+    "lat": 42.651667,
+    "alt": 488,
+    "postePublic": true
+  },
+  {
+    "id": "66112001",
+    "nom": "MONTAURIOL",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.725,
+    "lat": 42.576667,
+    "alt": 200,
+    "postePublic": true
+  },
+  {
+    "id": "66113002",
+    "nom": "MONTBOLO COL DE LA REDOUTE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.653333,
+    "lat": 42.486667,
+    "alt": 1170,
+    "postePublic": true
+  },
+  {
+    "id": "66116001",
+    "nom": "MONTFERRER",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.566667,
+    "lat": 42.438333,
+    "alt": 371,
+    "postePublic": true
+  },
+  {
+    "id": "66117001",
+    "nom": "MONT LOUIS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.121667,
+    "lat": 42.51,
+    "alt": 1600,
+    "postePublic": true
+  },
+  {
+    "id": "66117006",
+    "nom": "MONT-LOUIS ECOLE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.12,
+    "lat": 42.508333,
+    "alt": 1586,
+    "postePublic": true
+  },
+  {
+    "id": "66119002",
+    "nom": "MOSSET",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 2.320333,
+    "lat": 42.675667,
+    "alt": 750,
+    "postePublic": true
+  },
+  {
+    "id": "66124001",
+    "nom": "FONT ROMEU",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.04,
+    "lat": 42.503333,
+    "alt": 1754,
+    "postePublic": true
+  },
+  {
+    "id": "66124004",
+    "nom": "FONT-ROMEU",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.036667,
+    "lat": 42.521667,
+    "alt": 1964,
+    "postePublic": true
+  },
+  {
+    "id": "66124402",
+    "nom": "FONT-ROMEU-GALINERA",
+    "posteOuvert": true,
+    "typePoste": 4,
+    "lon": 2.021,
+    "lat": 42.535167,
+    "alt": 2144,
+    "postePublic": true
+  },
+  {
+    "id": "66125003",
+    "nom": "OLETTE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.266667,
+    "lat": 42.553333,
+    "alt": 615,
+    "postePublic": true
+  },
+  {
+    "id": "66130002",
+    "nom": "OSSEJA",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.981667,
+    "lat": 42.413333,
+    "alt": 1240,
+    "postePublic": true
+  },
+  {
+    "id": "66133001",
+    "nom": "PALAU-DEL-VIDRE BOURG",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.96,
+    "lat": 42.571667,
+    "alt": 30,
+    "postePublic": true
+  },
+  {
+    "id": "66136001",
+    "nom": "PERPIGNAN",
+    "posteOuvert": true,
+    "typePoste": 0,
+    "lon": 2.872833,
+    "lat": 42.737167,
+    "alt": 42,
+    "postePublic": true
+  },
+  {
+    "id": "66136003",
+    "nom": "OBSERVATOIRE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.885,
+    "lat": 42.701667,
+    "alt": 30,
+    "postePublic": true
+  },
+  {
+    "id": "66136005",
+    "nom": "PERPIGNAN-EN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.9,
+    "lat": 42.696667,
+    "alt": 37,
+    "postePublic": true
+  },
+  {
+    "id": "66136006",
+    "nom": "PERPIGNAN GARE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.881667,
+    "lat": 42.695,
+    "alt": 38,
+    "postePublic": true
+  },
+  {
+    "id": "66136007",
+    "nom": "PERPISTDO",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.898333,
+    "lat": 42.701667,
+    "alt": 36,
+    "postePublic": true
+  },
+  {
+    "id": "66137003",
+    "nom": "LE PERTHUS",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 2.8595,
+    "lat": 42.473333,
+    "alt": 295,
+    "postePublic": true
+  },
+  {
+    "id": "66147001",
+    "nom": "PORTE PUYMORENS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.826667,
+    "lat": 42.546667,
+    "alt": 1620,
+    "postePublic": true
+  },
+  {
+    "id": "66147402",
+    "nom": "PORTE-PUYMORENS",
+    "posteOuvert": true,
+    "typePoste": 4,
+    "lon": 1.789,
+    "lat": 42.551667,
+    "alt": 2087,
+    "postePublic": true
+  },
+  {
+    "id": "66148001",
+    "nom": "CAP BEAR",
+    "posteOuvert": true,
+    "typePoste": 0,
+    "lon": 3.133667,
+    "lat": 42.516167,
+    "alt": 72,
+    "postePublic": true
+  },
+  {
+    "id": "66148002",
+    "nom": "PORT-VENDRES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.105,
+    "lat": 42.52,
+    "alt": 5,
+    "postePublic": true
+  },
+  {
+    "id": "66148005",
+    "nom": "PORT-VENDRES PAULILLES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.105,
+    "lat": 42.52,
+    "alt": 9,
+    "postePublic": true
+  },
+  {
+    "id": "66148006",
+    "nom": "PORT-VENDRES CAP BEAR - PHARE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.105,
+    "lat": 42.52,
+    "alt": 51,
+    "postePublic": true
+  },
+  {
+    "id": "66149001",
+    "nom": "PRADES RUE DES LAURIERS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.421667,
+    "lat": 42.616667,
+    "alt": 347,
+    "postePublic": true
+  },
+  {
+    "id": "66149002",
+    "nom": "PRADES PONTS ET CHAUSSEES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.421667,
+    "lat": 42.618333,
+    "alt": 352,
+    "postePublic": true
+  },
+  {
+    "id": "66150002",
+    "nom": "PRATS-MOLL",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.48,
+    "lat": 42.403333,
+    "alt": 1100,
+    "postePublic": true
+  },
+  {
+    "id": "66150003",
+    "nom": "PRATS-DE-MOLLO-LA-PRESTE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.48,
+    "lat": 42.403333,
+    "alt": 850,
+    "postePublic": true
+  },
+  {
+    "id": "66150004",
+    "nom": "PRATS-DE-MOLLO",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.485,
+    "lat": 42.405,
+    "alt": 725,
+    "postePublic": true
+  },
+  {
+    "id": "66150010",
+    "nom": "PRATS-DE-MOLLO-LA-PRESTE-BOIS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.48,
+    "lat": 42.403333,
+    "alt": 1151,
+    "postePublic": true
+  },
+  {
+    "id": "66150012",
+    "nom": "COL D ARES",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 2.458333,
+    "lat": 42.368333,
+    "alt": 1525,
+    "postePublic": true
+  },
+  {
+    "id": "66154401",
+    "nom": "Puyvalador_Rieutord",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.058333,
+    "lat": 42.655167,
+    "alt": 2131,
+    "postePublic": true
+  },
+  {
+    "id": "66157001",
+    "nom": "RAILLEU",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 2.181,
+    "lat": 42.586667,
+    "alt": 1366,
+    "postePublic": true
+  },
+  {
+    "id": "66164001",
+    "nom": "RIVESALTES ECOLE D'AGRICOLE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.871667,
+    "lat": 42.77,
+    "alt": 26,
+    "postePublic": true
+  },
+  {
+    "id": "66165001",
+    "nom": "RODES MOULIN DE RODES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.561667,
+    "lat": 42.658333,
+    "alt": 205,
+    "postePublic": true
+  },
+  {
+    "id": "66167001",
+    "nom": "SAILLAGOUS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.038333,
+    "lat": 42.458333,
+    "alt": 1305,
+    "postePublic": true
+  },
+  {
+    "id": "66179001",
+    "nom": "ST LAURENT CERD",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.611667,
+    "lat": 42.386667,
+    "alt": 640,
+    "postePublic": true
+  },
+  {
+    "id": "66180001",
+    "nom": "ST-LAURENT-DE-LA-SALANQUE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.988333,
+    "lat": 42.773333,
+    "alt": 6,
+    "postePublic": true
+  },
+  {
+    "id": "66181001",
+    "nom": "STE LEOCADIE",
+    "posteOuvert": false,
+    "typePoste": 1,
+    "lon": 2.013333,
+    "lat": 42.445,
+    "alt": 1320,
+    "postePublic": true
+  },
+  {
+    "id": "66183001",
+    "nom": "ST MARSAL",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 2.622,
+    "lat": 42.539167,
+    "alt": 690,
+    "postePublic": true
+  },
+  {
+    "id": "66187004",
+    "nom": "ST PAUL FENOUIL",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 2.558333,
+    "lat": 42.808333,
+    "alt": 205,
+    "postePublic": true
+  },
+  {
+    "id": "66187006",
+    "nom": "ST PAUL DE FENOUILLET",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 2.485333,
+    "lat": 42.8205,
+    "alt": 300,
+    "postePublic": true
+  },
+  {
+    "id": "66188401",
+    "nom": "ST PIERRE DELS FORCATS",
+    "posteOuvert": true,
+    "typePoste": 4,
+    "lon": 2.117,
+    "lat": 42.4625,
+    "alt": 2350,
+    "postePublic": true
+  },
+  {
+    "id": "66192003",
+    "nom": "LA CASSAGNE- S H E M",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.148667,
+    "lat": 42.509167,
+    "alt": 1151,
+    "postePublic": true
+  },
+  {
+    "id": "66194002",
+    "nom": "SERRALONGUE",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 2.557833,
+    "lat": 42.399833,
+    "alt": 700,
+    "postePublic": true
+  },
+  {
+    "id": "66195001",
+    "nom": "LE SOLER LOTISSEMENT MAZARD",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.793333,
+    "lat": 42.681667,
+    "alt": 73,
+    "postePublic": true
+  },
+  {
+    "id": "66198001",
+    "nom": "SOURNIA",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.446667,
+    "lat": 42.726667,
+    "alt": 515,
+    "postePublic": true
+  },
+  {
+    "id": "66198003",
+    "nom": "SOURNIA CMD",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.44,
+    "lat": 42.726667,
+    "alt": 513,
+    "postePublic": true
+  },
+  {
+    "id": "66202001",
+    "nom": "TARGASONNE",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 1.973333,
+    "lat": 42.504,
+    "alt": 1600,
+    "postePublic": true
+  },
+  {
+    "id": "66203001",
+    "nom": "TAULIS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.633333,
+    "lat": 42.523333,
+    "alt": 570,
+    "postePublic": true
+  },
+  {
+    "id": "66204002",
+    "nom": "TAURINYA",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 2.4105,
+    "lat": 42.580333,
+    "alt": 770,
+    "postePublic": true
+  },
+  {
+    "id": "66204400",
+    "nom": "CANIGOU-NIVOSE",
+    "posteOuvert": true,
+    "typePoste": 3,
+    "lon": 2.465,
+    "lat": 42.536667,
+    "alt": 2160,
+    "postePublic": true
+  },
+  {
+    "id": "66206001",
+    "nom": "LE TECH-EDF",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.541,
+    "lat": 42.408667,
+    "alt": 532,
+    "postePublic": true
+  },
+  {
+    "id": "66206002",
+    "nom": "LE TECH-LA LLAU",
+    "posteOuvert": false,
+    "typePoste": 3,
+    "lon": 2.515,
+    "lat": 42.44,
+    "alt": 900,
+    "postePublic": true
+  },
+  {
+    "id": "66206003",
+    "nom": "LEVENTOUS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.521667,
+    "lat": 42.441667,
+    "alt": 1160,
+    "postePublic": true
+  },
+  {
+    "id": "66206004",
+    "nom": "LE TECH LA LLAU_SAPC",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 2.5125,
+    "lat": 42.439833,
+    "alt": 927,
+    "postePublic": true
+  },
+  {
+    "id": "66209002",
+    "nom": "THUES-ENTRE-VALLS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.223333,
+    "lat": 42.525,
+    "alt": 812,
+    "postePublic": true
+  },
+  {
+    "id": "66210003",
+    "nom": "THUIR",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 2.731667,
+    "lat": 42.648333,
+    "alt": 110,
+    "postePublic": true
+  },
+  {
+    "id": "66212001",
+    "nom": "TORREILLES",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 2.978333,
+    "lat": 42.755,
+    "alt": 7,
+    "postePublic": true
+  },
+  {
+    "id": "66214001",
+    "nom": "TRESSERRE",
+    "posteOuvert": false,
+    "typePoste": 3,
+    "lon": 2.826667,
+    "lat": 42.545,
+    "alt": 148,
+    "postePublic": true
+  },
+  {
+    "id": "66220002",
+    "nom": "VALCEBOLLERE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.035333,
+    "lat": 42.388167,
+    "alt": 1519,
+    "postePublic": true
+  },
+  {
+    "id": "66222001",
+    "nom": "VERNET LES BAIN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.386667,
+    "lat": 42.551667,
+    "alt": 640,
+    "postePublic": true
+  },
+  {
+    "id": "66222002",
+    "nom": "VERNET-LES-BAINS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.386667,
+    "lat": 42.546667,
+    "alt": 650,
+    "postePublic": true
+  },
+  {
+    "id": "66222003",
+    "nom": "VERNET LES BAINS",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 2.386667,
+    "lat": 42.548333,
+    "alt": 630,
+    "postePublic": true
+  },
+  {
+    "id": "66230001",
+    "nom": "VINCA",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 2.547833,
+    "lat": 42.6555,
+    "alt": 251,
+    "postePublic": true
+  },
+  {
+    "id": "66230003",
+    "nom": "VINCA AGGLOMERATION",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 2.526667,
+    "lat": 42.645,
+    "alt": 259,
+    "postePublic": true
+  },
+  {
+    "id": "66233001",
+    "nom": "VIVES",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 2.760833,
+    "lat": 42.5365,
+    "alt": 261,
+    "postePublic": true
+  }
+]

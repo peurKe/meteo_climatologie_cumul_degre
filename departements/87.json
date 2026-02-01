@@ -1,0 +1,362 @@
+[
+  {
+    "id": "87009002",
+    "nom": "BEAUMONT - MAN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.863333,
+    "lat": 45.801667,
+    "alt": 675,
+    "postePublic": true
+  },
+  {
+    "id": "87009003",
+    "nom": "BEAUMONT DU LAC",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 1.863167,
+    "lat": 45.8015,
+    "alt": 670,
+    "postePublic": true
+  },
+  {
+    "id": "87011002",
+    "nom": "BELLAC",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 1.052667,
+    "lat": 46.120333,
+    "alt": 241,
+    "postePublic": true
+  },
+  {
+    "id": "87011006",
+    "nom": "BELLAC",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 1.052833,
+    "lat": 46.120667,
+    "alt": 246,
+    "postePublic": true
+  },
+  {
+    "id": "87014001",
+    "nom": "BESSINES - MAN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.368333,
+    "lat": 46.108333,
+    "alt": 314,
+    "postePublic": true
+  },
+  {
+    "id": "87014005",
+    "nom": "BESSINES",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 1.376,
+    "lat": 46.112667,
+    "alt": 301,
+    "postePublic": true
+  },
+  {
+    "id": "87026001",
+    "nom": "BUSSIERE BOFFY",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.865833,
+    "lat": 46.052167,
+    "alt": 240,
+    "postePublic": true
+  },
+  {
+    "id": "87032004",
+    "nom": "CHALUS_SAPC",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 0.979,
+    "lat": 45.646167,
+    "alt": 403,
+    "postePublic": true
+  },
+  {
+    "id": "87034001",
+    "nom": "CHAMPAGNAC LA R",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.9,
+    "lat": 45.694167,
+    "alt": 340,
+    "postePublic": true
+  },
+  {
+    "id": "87041001",
+    "nom": "CHATEAUPONSAC",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 1.265167,
+    "lat": 46.137667,
+    "alt": 282,
+    "postePublic": true
+  },
+  {
+    "id": "87044001",
+    "nom": "CHERONNAC_SAPC",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 0.76,
+    "lat": 45.753833,
+    "alt": 295,
+    "postePublic": true
+  },
+  {
+    "id": "87059001",
+    "nom": "LE DORAT",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 1.0805,
+    "lat": 46.220833,
+    "alt": 222,
+    "postePublic": true
+  },
+  {
+    "id": "87064005",
+    "nom": "EYMOUTIERS",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 1.701167,
+    "lat": 45.733833,
+    "alt": 557,
+    "postePublic": true
+  },
+  {
+    "id": "87085001",
+    "nom": "FEYTIAT",
+    "posteOuvert": false,
+    "typePoste": 0,
+    "lon": 1.266667,
+    "lat": 45.833333,
+    "alt": 282,
+    "postePublic": true
+  },
+  {
+    "id": "87085004",
+    "nom": "LIMOGES-BELLEVUE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.258333,
+    "lat": 45.831667,
+    "alt": 253,
+    "postePublic": true
+  },
+  {
+    "id": "87085006",
+    "nom": "LIMOGES-BELLEGARDE",
+    "posteOuvert": true,
+    "typePoste": 0,
+    "lon": 1.175,
+    "lat": 45.861167,
+    "alt": 402,
+    "postePublic": true
+  },
+  {
+    "id": "87085007",
+    "nom": "LIMOGES OBSERVATOIRE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.258333,
+    "lat": 45.831667,
+    "alt": 306,
+    "postePublic": true
+  },
+  {
+    "id": "87085008",
+    "nom": "LIMOGES V - MAN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.268333,
+    "lat": 45.831667,
+    "alt": 250,
+    "postePublic": true
+  },
+  {
+    "id": "87085009",
+    "nom": "LIMOGES VILLE",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 1.2675,
+    "lat": 45.828667,
+    "alt": 252,
+    "postePublic": true
+  },
+  {
+    "id": "87085010",
+    "nom": "LIMOGES CASERNE BEAUPUY",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.25,
+    "lat": 45.843333,
+    "alt": 298,
+    "postePublic": true
+  },
+  {
+    "id": "87089001",
+    "nom": "MAGNAC LA - MAN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.183333,
+    "lat": 46.2,
+    "alt": 247,
+    "postePublic": true
+  },
+  {
+    "id": "87089003",
+    "nom": "MAGNAC-LAVAL",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 1.187,
+    "lat": 46.209667,
+    "alt": 246,
+    "postePublic": true
+  },
+  {
+    "id": "87103002",
+    "nom": "NANTIAT",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 1.180667,
+    "lat": 46.004667,
+    "alt": 335,
+    "postePublic": true
+  },
+  {
+    "id": "87106001",
+    "nom": "NEXON",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 1.189,
+    "lat": 45.680833,
+    "alt": 336,
+    "postePublic": true
+  },
+  {
+    "id": "87113001",
+    "nom": "LE PALAIS SUR VIENNE",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 1.3425,
+    "lat": 45.877833,
+    "alt": 286,
+    "postePublic": true
+  },
+  {
+    "id": "87119004",
+    "nom": "PIERRE-BUFFIERE",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 1.368,
+    "lat": 45.687833,
+    "alt": 326,
+    "postePublic": true
+  },
+  {
+    "id": "87126002",
+    "nom": "ROCHECHOUART",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.829333,
+    "lat": 45.8285,
+    "alt": 255,
+    "postePublic": true
+  },
+  {
+    "id": "87146002",
+    "nom": "ST GERMAIN BELL",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 1.4995,
+    "lat": 45.6125,
+    "alt": 418,
+    "postePublic": true
+  },
+  {
+    "id": "87154003",
+    "nom": "ST JUNIEN",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 0.917,
+    "lat": 45.900833,
+    "alt": 271,
+    "postePublic": true
+  },
+  {
+    "id": "87159002",
+    "nom": "ST LEGER LA MONTAGNE_SAPC",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 1.459667,
+    "lat": 46.035333,
+    "alt": 664,
+    "postePublic": true
+  },
+  {
+    "id": "87161002",
+    "nom": "ST LEONARD NOBL",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 1.4965,
+    "lat": 45.828667,
+    "alt": 346,
+    "postePublic": true
+  },
+  {
+    "id": "87167001",
+    "nom": "ST MARTIN TERRE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.454833,
+    "lat": 45.926667,
+    "alt": 255,
+    "postePublic": true
+  },
+  {
+    "id": "87183001",
+    "nom": "ST SYLV CROUZIL",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 1.33,
+    "lat": 45.988833,
+    "alt": 423,
+    "postePublic": true
+  },
+  {
+    "id": "87187001",
+    "nom": "ST YRIEIX - MAN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.251667,
+    "lat": 45.51,
+    "alt": 410,
+    "postePublic": true
+  },
+  {
+    "id": "87187003",
+    "nom": "ST YRIEIX LA PE",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 1.243833,
+    "lat": 45.513667,
+    "alt": 404,
+    "postePublic": true
+  },
+  {
+    "id": "87201001",
+    "nom": "VERNEUIL",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.178167,
+    "lat": 45.840167,
+    "alt": 340,
+    "postePublic": true
+  }
+]

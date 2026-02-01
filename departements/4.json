@@ -1,0 +1,602 @@
+[
+  {
+    "id": "04004001",
+    "nom": "ALLEMAGNE-EN-PROVENCE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 6.006667,
+    "lat": 43.781667,
+    "alt": 450,
+    "postePublic": true
+  },
+  {
+    "id": "04004003",
+    "nom": "ALLEMAGNE-EN-PROVENCE BOURG",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 6.006667,
+    "lat": 43.783333,
+    "alt": 600,
+    "postePublic": true
+  },
+  {
+    "id": "04006004",
+    "nom": "ALLOS",
+    "posteOuvert": false,
+    "typePoste": 3,
+    "lon": 6.631667,
+    "lat": 44.226667,
+    "alt": 1370,
+    "postePublic": true
+  },
+  {
+    "id": "04006005",
+    "nom": "ALLOS_SAPC",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 6.625333,
+    "lat": 44.2425,
+    "alt": 1400,
+    "postePublic": true
+  },
+  {
+    "id": "04006400",
+    "nom": "LA FOUX D ALLOS_NIVO",
+    "posteOuvert": true,
+    "typePoste": 4,
+    "lon": 6.561667,
+    "lat": 44.289833,
+    "alt": 1900,
+    "postePublic": true
+  },
+  {
+    "id": "04019001",
+    "nom": "BARCELONNETTE",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 6.670167,
+    "lat": 44.391167,
+    "alt": 1155,
+    "postePublic": true
+  },
+  {
+    "id": "04019006",
+    "nom": "BARCELLONNETTE EN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 6.65,
+    "lat": 44.388333,
+    "alt": 1173,
+    "postePublic": true
+  },
+  {
+    "id": "04019404",
+    "nom": "PRA LOUP_NIVO",
+    "posteOuvert": true,
+    "typePoste": 4,
+    "lon": 6.584667,
+    "lat": 44.36,
+    "alt": 2100,
+    "postePublic": true
+  },
+  {
+    "id": "04022001",
+    "nom": "BARREME",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 6.372333,
+    "lat": 43.957167,
+    "alt": 743,
+    "postePublic": true
+  },
+  {
+    "id": "04023001",
+    "nom": "BAYONS",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 6.178667,
+    "lat": 44.342667,
+    "alt": 886,
+    "postePublic": true
+  },
+  {
+    "id": "04024004",
+    "nom": "BEAUJEU ST PIERRE",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 6.385167,
+    "lat": 44.209833,
+    "alt": 960,
+    "postePublic": true
+  },
+  {
+    "id": "04027002",
+    "nom": "BEVONS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.861833,
+    "lat": 44.167,
+    "alt": 520,
+    "postePublic": true
+  },
+  {
+    "id": "04039001",
+    "nom": "CASTELLANE",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 6.508,
+    "lat": 43.849167,
+    "alt": 729,
+    "postePublic": true
+  },
+  {
+    "id": "04039002",
+    "nom": "PALLUD",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 6.496667,
+    "lat": 43.866667,
+    "alt": 820,
+    "postePublic": true
+  },
+  {
+    "id": "04040001",
+    "nom": "CASTELLARD",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 6.125,
+    "lat": 44.186667,
+    "alt": 1199,
+    "postePublic": true
+  },
+  {
+    "id": "04040002",
+    "nom": "CASTELLARD(LE)",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 6.125,
+    "lat": 44.186667,
+    "alt": 1070,
+    "postePublic": true
+  },
+  {
+    "id": "04041001",
+    "nom": "LE CASTELLET",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 5.9795,
+    "lat": 43.938333,
+    "alt": 473,
+    "postePublic": true
+  },
+  {
+    "id": "04045001",
+    "nom": "CERESTE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.566,
+    "lat": 43.850667,
+    "alt": 350,
+    "postePublic": true
+  },
+  {
+    "id": "04049001",
+    "nom": "ST AUBAN",
+    "posteOuvert": true,
+    "typePoste": 0,
+    "lon": 5.989667,
+    "lat": 44.062167,
+    "alt": 458,
+    "postePublic": true
+  },
+  {
+    "id": "04049005",
+    "nom": "CHATEAU-ARNOUX-SAINT-AUBAN-BG",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 6.006667,
+    "lat": 44.093333,
+    "alt": 460,
+    "postePublic": true
+  },
+  {
+    "id": "04068001",
+    "nom": "DAUPHIN",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 5.767167,
+    "lat": 43.909833,
+    "alt": 427,
+    "postePublic": true
+  },
+  {
+    "id": "04070005",
+    "nom": "DIGNE-LES-BAINS AGGLOMERATION",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 6.235,
+    "lat": 44.095,
+    "alt": 580,
+    "postePublic": true
+  },
+  {
+    "id": "04070007",
+    "nom": "DIGNE",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 6.186667,
+    "lat": 44.076667,
+    "alt": 560,
+    "postePublic": true
+  },
+  {
+    "id": "04070008",
+    "nom": "DIGNE",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 6.225,
+    "lat": 44.083333,
+    "alt": 585,
+    "postePublic": true
+  },
+  {
+    "id": "04070009",
+    "nom": "DIGNE LES BAINS",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 6.186667,
+    "lat": 44.07,
+    "alt": 554,
+    "postePublic": true
+  },
+  {
+    "id": "04088001",
+    "nom": "FORCALQUIER",
+    "posteOuvert": true,
+    "typePoste": 4,
+    "lon": 5.784667,
+    "lat": 43.962833,
+    "alt": 535,
+    "postePublic": true
+  },
+  {
+    "id": "04088003",
+    "nom": "FORCALQUIER",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.78,
+    "lat": 43.933333,
+    "alt": 470,
+    "postePublic": true
+  },
+  {
+    "id": "04094001",
+    "nom": "GREOUX-ITCF",
+    "posteOuvert": false,
+    "typePoste": 3,
+    "lon": 5.858333,
+    "lat": 43.751667,
+    "alt": 296,
+    "postePublic": true
+  },
+  {
+    "id": "04094002",
+    "nom": "GREOUX",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 5.883333,
+    "lat": 43.756667,
+    "alt": 359,
+    "postePublic": true
+  },
+  {
+    "id": "04096002",
+    "nom": "JAUSIERS-ST ANNE",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 6.725167,
+    "lat": 44.413667,
+    "alt": 1240,
+    "postePublic": true
+  },
+  {
+    "id": "04096401",
+    "nom": "RESTEFOND-NIVOSE",
+    "posteOuvert": true,
+    "typePoste": 3,
+    "lon": 6.8,
+    "lat": 44.34,
+    "alt": 2550,
+    "postePublic": true
+  },
+  {
+    "id": "04106001",
+    "nom": "LURS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.866333,
+    "lat": 43.9445,
+    "alt": 385,
+    "postePublic": true
+  },
+  {
+    "id": "04112001",
+    "nom": "MANOSQUE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.785,
+    "lat": 43.843333,
+    "alt": 380,
+    "postePublic": true
+  },
+  {
+    "id": "04112006",
+    "nom": "MANOSQUE",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 5.817167,
+    "lat": 43.797,
+    "alt": 289,
+    "postePublic": true
+  },
+  {
+    "id": "04112009",
+    "nom": "MANOSQUE",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 5.793333,
+    "lat": 43.8355,
+    "alt": 457,
+    "postePublic": true
+  },
+  {
+    "id": "04115001",
+    "nom": "MEAILLES_SAPC",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 6.6295,
+    "lat": 44.031167,
+    "alt": 1090,
+    "postePublic": true
+  },
+  {
+    "id": "04126001",
+    "nom": "MONTCLAR_SAPC",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 6.333333,
+    "lat": 44.391833,
+    "alt": 1197,
+    "postePublic": true
+  },
+  {
+    "id": "04134002",
+    "nom": "LA MOTTE DU CAIRE",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 6.0305,
+    "lat": 44.326667,
+    "alt": 665,
+    "postePublic": true
+  },
+  {
+    "id": "04136001",
+    "nom": "LA MURE-ARGENS",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 6.520167,
+    "lat": 43.977,
+    "alt": 920,
+    "postePublic": true
+  },
+  {
+    "id": "04157001",
+    "nom": "PUIMOISSON",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 6.168833,
+    "lat": 43.871167,
+    "alt": 775,
+    "postePublic": true
+  },
+  {
+    "id": "04158002",
+    "nom": "QUINSON",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 6.039833,
+    "lat": 43.7075,
+    "alt": 400,
+    "postePublic": true
+  },
+  {
+    "id": "04160001",
+    "nom": "REILLANNE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.663333,
+    "lat": 43.87,
+    "alt": 455,
+    "postePublic": true
+  },
+  {
+    "id": "04172001",
+    "nom": "ROUMOULES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 6.150833,
+    "lat": 43.7935,
+    "alt": 665,
+    "postePublic": true
+  },
+  {
+    "id": "04173001",
+    "nom": "ST-ANDRE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 6.511667,
+    "lat": 43.968333,
+    "alt": 890,
+    "postePublic": true
+  },
+  {
+    "id": "04173002",
+    "nom": "ST ANDRE ALPES",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 6.511667,
+    "lat": 43.958333,
+    "alt": 882,
+    "postePublic": true
+  },
+  {
+    "id": "04184001",
+    "nom": "ST JURS",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 6.2005,
+    "lat": 43.900833,
+    "alt": 867,
+    "postePublic": true
+  },
+  {
+    "id": "04189001",
+    "nom": "ST-MARTIN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.94,
+    "lat": 43.763333,
+    "alt": 392,
+    "postePublic": true
+  },
+  {
+    "id": "04192001",
+    "nom": "ST MICHEL L OBS",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 5.713333,
+    "lat": 43.933333,
+    "alt": 650,
+    "postePublic": true
+  },
+  {
+    "id": "04193002",
+    "nom": "ST PAUL",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 6.843333,
+    "lat": 44.593,
+    "alt": 1908,
+    "postePublic": true
+  },
+  {
+    "id": "04193400",
+    "nom": "MALJASSET_NIVO",
+    "posteOuvert": true,
+    "typePoste": 4,
+    "lon": 6.843333,
+    "lat": 44.593,
+    "alt": 1908,
+    "postePublic": true
+  },
+  {
+    "id": "04205001",
+    "nom": "SEYNE",
+    "posteOuvert": true,
+    "typePoste": 4,
+    "lon": 6.3645,
+    "lat": 44.3515,
+    "alt": 1210,
+    "postePublic": true
+  },
+  {
+    "id": "04205004",
+    "nom": "SEYNE-COL MAURE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 6.400167,
+    "lat": 44.320333,
+    "alt": 1347,
+    "postePublic": true
+  },
+  {
+    "id": "04209001",
+    "nom": "SISTERON BEAULIEU",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.941667,
+    "lat": 44.195,
+    "alt": 480,
+    "postePublic": true
+  },
+  {
+    "id": "04209004",
+    "nom": "SISTERON-CHAUMI",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.941667,
+    "lat": 44.215,
+    "alt": 485,
+    "postePublic": true
+  },
+  {
+    "id": "04209005",
+    "nom": "SISTERON",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 5.916,
+    "lat": 44.2245,
+    "alt": 500,
+    "postePublic": true
+  },
+  {
+    "id": "04217001",
+    "nom": "THOARD",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 6.138333,
+    "lat": 44.16,
+    "alt": 785,
+    "postePublic": true
+  },
+  {
+    "id": "04217002",
+    "nom": "THOARD",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 6.138833,
+    "lat": 44.146833,
+    "alt": 732,
+    "postePublic": true
+  },
+  {
+    "id": "04219001",
+    "nom": "THORAME HAUTE",
+    "posteOuvert": true,
+    "typePoste": 4,
+    "lon": 6.557333,
+    "lat": 44.091667,
+    "alt": 1155,
+    "postePublic": true
+  },
+  {
+    "id": "04222001",
+    "nom": "TURRIERS",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 6.1695,
+    "lat": 44.399,
+    "alt": 1020,
+    "postePublic": true
+  },
+  {
+    "id": "04230001",
+    "nom": "VALENSOLE",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 6.000833,
+    "lat": 43.8395,
+    "alt": 600,
+    "postePublic": true
+  }
+]

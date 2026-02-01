@@ -1,0 +1,722 @@
+[
+  {
+    "id": "30003001",
+    "nom": "AIGUES-MORTES",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 4.207,
+    "lat": 43.537167,
+    "alt": 1,
+    "postePublic": true
+  },
+  {
+    "id": "30004001",
+    "nom": "AIGUES-VIVES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.208333,
+    "lat": 43.713333,
+    "alt": 12,
+    "postePublic": true
+  },
+  {
+    "id": "30007002",
+    "nom": "ALES LA PRAIRIE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.08,
+    "lat": 44.128333,
+    "alt": 140,
+    "postePublic": true
+  },
+  {
+    "id": "30009001",
+    "nom": "ALZON",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 3.444,
+    "lat": 43.979,
+    "alt": 611,
+    "postePublic": true
+  },
+  {
+    "id": "30012003",
+    "nom": "ARAMON",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.646667,
+    "lat": 43.885,
+    "alt": 12,
+    "postePublic": true
+  },
+  {
+    "id": "30015002",
+    "nom": "ARPHY",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.595,
+    "lat": 44.017667,
+    "alt": 427,
+    "postePublic": true
+  },
+  {
+    "id": "30032003",
+    "nom": "BEAUCAIRE MR PUGNET",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.641667,
+    "lat": 43.81,
+    "alt": 12,
+    "postePublic": true
+  },
+  {
+    "id": "30034003",
+    "nom": "BELLEGARDE",
+    "posteOuvert": false,
+    "typePoste": 3,
+    "lon": 4.48,
+    "lat": 43.78,
+    "alt": 45,
+    "postePublic": true
+  },
+  {
+    "id": "30055001",
+    "nom": "BROUZET LES ALES",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 4.284833,
+    "lat": 44.131167,
+    "alt": 603,
+    "postePublic": true
+  },
+  {
+    "id": "30061001",
+    "nom": "CALMETTE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.25,
+    "lat": 43.95,
+    "alt": 70,
+    "postePublic": true
+  },
+  {
+    "id": "30068001",
+    "nom": "CARDET",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 4.079667,
+    "lat": 44.021,
+    "alt": 109,
+    "postePublic": true
+  },
+  {
+    "id": "30076001",
+    "nom": "CAVILLARGUES",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 4.518667,
+    "lat": 44.113,
+    "alt": 131,
+    "postePublic": true
+  },
+  {
+    "id": "30081001",
+    "nom": "CHUSCLAN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.7,
+    "lat": 44.143333,
+    "alt": 63,
+    "postePublic": true
+  },
+  {
+    "id": "30081002",
+    "nom": "CHUSCLAN",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 4.708333,
+    "lat": 44.134833,
+    "alt": 30,
+    "postePublic": true
+  },
+  {
+    "id": "30087002",
+    "nom": "COLOGNAC",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 3.825,
+    "lat": 44.021833,
+    "alt": 589,
+    "postePublic": true
+  },
+  {
+    "id": "30089001",
+    "nom": "COMPS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.6,
+    "lat": 43.85,
+    "alt": 12,
+    "postePublic": true
+  },
+  {
+    "id": "30093002",
+    "nom": "CONQUEYRAC-DDE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.906667,
+    "lat": 43.946667,
+    "alt": 135,
+    "postePublic": true
+  },
+  {
+    "id": "30093003",
+    "nom": "CONQUEYRAC",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 3.9,
+    "lat": 43.9405,
+    "alt": 135,
+    "postePublic": true
+  },
+  {
+    "id": "30100001",
+    "nom": "CRUVIERS-LASCOURS",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 4.200333,
+    "lat": 44.0025,
+    "alt": 103,
+    "postePublic": true
+  },
+  {
+    "id": "30101001",
+    "nom": "DEAUX",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 4.143667,
+    "lat": 44.071833,
+    "alt": 185,
+    "postePublic": true
+  },
+  {
+    "id": "30105001",
+    "nom": "DOURBIES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.441667,
+    "lat": 44.068333,
+    "alt": 900,
+    "postePublic": true
+  },
+  {
+    "id": "30117002",
+    "nom": "FOURQUES-INRAE",
+    "posteOuvert": true,
+    "typePoste": 5,
+    "lon": 4.558333,
+    "lat": 43.706667,
+    "alt": 3,
+    "postePublic": true
+  },
+  {
+    "id": "30123001",
+    "nom": "GALLARGUES LE MONTUEUX",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 4.171667,
+    "lat": 43.714833,
+    "alt": 17,
+    "postePublic": true
+  },
+  {
+    "id": "30129001",
+    "nom": "GENERARGUES",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 3.977667,
+    "lat": 44.073333,
+    "alt": 139,
+    "postePublic": true
+  },
+  {
+    "id": "30130001",
+    "nom": "GENOLHAC",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 3.9615,
+    "lat": 44.342833,
+    "alt": 519,
+    "postePublic": true
+  },
+  {
+    "id": "30132002",
+    "nom": "LA GRAND COMBE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.023333,
+    "lat": 44.245,
+    "alt": 415,
+    "postePublic": true
+  },
+  {
+    "id": "30132003",
+    "nom": "LA GRAND COMBE",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 4.016667,
+    "lat": 44.228333,
+    "alt": 288,
+    "postePublic": true
+  },
+  {
+    "id": "30132004",
+    "nom": "LA GRAND COMBE",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 4.010167,
+    "lat": 44.243,
+    "alt": 499,
+    "postePublic": true
+  },
+  {
+    "id": "30133001",
+    "nom": "LE GRAU DU ROI",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 4.137167,
+    "lat": 43.496,
+    "alt": 1,
+    "postePublic": true
+  },
+  {
+    "id": "30151001",
+    "nom": "LUSSAN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.358333,
+    "lat": 44.158333,
+    "alt": 250,
+    "postePublic": true
+  },
+  {
+    "id": "30151002",
+    "nom": "LUSSAN-PRAT",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.401667,
+    "lat": 44.133333,
+    "alt": 226,
+    "postePublic": true
+  },
+  {
+    "id": "30151004",
+    "nom": "LUSSAN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.365333,
+    "lat": 44.147667,
+    "alt": 257,
+    "postePublic": true
+  },
+  {
+    "id": "30154001",
+    "nom": "MANDAGOUT",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.6265,
+    "lat": 44.0195,
+    "alt": 485,
+    "postePublic": true
+  },
+  {
+    "id": "30164001",
+    "nom": "MEJANNES-LE-CLAP",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 4.331,
+    "lat": 44.216333,
+    "alt": 313,
+    "postePublic": true
+  },
+  {
+    "id": "30166001",
+    "nom": "MEYNES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.5255,
+    "lat": 43.861167,
+    "alt": 71,
+    "postePublic": true
+  },
+  {
+    "id": "30175001",
+    "nom": "MONTCLUS",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 4.430333,
+    "lat": 44.268,
+    "alt": 120,
+    "postePublic": true
+  },
+  {
+    "id": "30176002",
+    "nom": "MONTDARDIER",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 3.58,
+    "lat": 43.947,
+    "alt": 640,
+    "postePublic": true
+  },
+  {
+    "id": "30189001",
+    "nom": "NIMES-COURBESSAC",
+    "posteOuvert": true,
+    "typePoste": 0,
+    "lon": 4.406333,
+    "lat": 43.856833,
+    "alt": 59,
+    "postePublic": true
+  },
+  {
+    "id": "30189003",
+    "nom": "NIMES ECOLE NORMALE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.36,
+    "lat": 43.838333,
+    "alt": 57,
+    "postePublic": true
+  },
+  {
+    "id": "30189004",
+    "nom": "NIMES MAISON CENTRALE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.36,
+    "lat": 43.838333,
+    "alt": 73,
+    "postePublic": true
+  },
+  {
+    "id": "30189009",
+    "nom": "NIMES CHEYLON",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.343333,
+    "lat": 43.8,
+    "alt": 25,
+    "postePublic": true
+  },
+  {
+    "id": "30202002",
+    "nom": "PONT ST ESPRIT",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 4.627333,
+    "lat": 44.248333,
+    "alt": 79,
+    "postePublic": true
+  },
+  {
+    "id": "30209001",
+    "nom": "PUJAUT",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.775,
+    "lat": 44.005,
+    "alt": 110,
+    "postePublic": true
+  },
+  {
+    "id": "30209002",
+    "nom": "PUJAUT",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 4.759667,
+    "lat": 43.9985,
+    "alt": 44,
+    "postePublic": true
+  },
+  {
+    "id": "30221001",
+    "nom": "ROQUEMAURE",
+    "posteOuvert": false,
+    "typePoste": 3,
+    "lon": 4.783333,
+    "lat": 44.046667,
+    "alt": 25,
+    "postePublic": true
+  },
+  {
+    "id": "30224001",
+    "nom": "LA ROUVIERE",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 4.2405,
+    "lat": 43.931833,
+    "alt": 79,
+    "postePublic": true
+  },
+  {
+    "id": "30225002",
+    "nom": "SABRAN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.567167,
+    "lat": 44.134167,
+    "alt": 204,
+    "postePublic": true
+  },
+  {
+    "id": "30243001",
+    "nom": "ST CHRISTOL-LES-ALES",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 4.080333,
+    "lat": 44.092167,
+    "alt": 129,
+    "postePublic": true
+  },
+  {
+    "id": "30258001",
+    "nom": "NIMES-GARONS",
+    "posteOuvert": true,
+    "typePoste": 0,
+    "lon": 4.412833,
+    "lat": 43.772833,
+    "alt": 94,
+    "postePublic": true
+  },
+  {
+    "id": "30261001",
+    "nom": "SAINT-HIPPOLYTE-DE-CATON",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.203333,
+    "lat": 44.07,
+    "alt": 142,
+    "postePublic": true
+  },
+  {
+    "id": "30263001",
+    "nom": "ST HIPPOLYTE",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 3.835167,
+    "lat": 43.9615,
+    "alt": 237,
+    "postePublic": true
+  },
+  {
+    "id": "30269002",
+    "nom": "ST JEAN DU GARD",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.881667,
+    "lat": 44.111667,
+    "alt": 220,
+    "postePublic": true
+  },
+  {
+    "id": "30269006",
+    "nom": "ST JEAN DU GARD",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 3.872,
+    "lat": 44.1105,
+    "alt": 196,
+    "postePublic": true
+  },
+  {
+    "id": "30273001",
+    "nom": "ST JULIEN DE PEYROLAS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.579333,
+    "lat": 44.277,
+    "alt": 71,
+    "postePublic": true
+  },
+  {
+    "id": "30283001",
+    "nom": "ST MARTIAL",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 3.7345,
+    "lat": 44.035833,
+    "alt": 483,
+    "postePublic": true
+  },
+  {
+    "id": "30297001",
+    "nom": "ST SAUVEUR CAMPRIEU",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 3.4745,
+    "lat": 44.119333,
+    "alt": 1107,
+    "postePublic": true
+  },
+  {
+    "id": "30299001",
+    "nom": "ST SIFFRET",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 4.486667,
+    "lat": 44.02,
+    "alt": 135,
+    "postePublic": true
+  },
+  {
+    "id": "30305001",
+    "nom": "SALINDRES",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 4.1525,
+    "lat": 44.1745,
+    "alt": 191,
+    "postePublic": true
+  },
+  {
+    "id": "30325001",
+    "nom": "SUMENE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.715667,
+    "lat": 43.9755,
+    "alt": 198,
+    "postePublic": true
+  },
+  {
+    "id": "30325002",
+    "nom": "SUMENE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.709667,
+    "lat": 43.976333,
+    "alt": 325,
+    "postePublic": true
+  },
+  {
+    "id": "30334001",
+    "nom": "UZES",
+    "posteOuvert": false,
+    "typePoste": 3,
+    "lon": 4.42,
+    "lat": 44.005,
+    "alt": 138,
+    "postePublic": true
+  },
+  {
+    "id": "30334002",
+    "nom": "UZES AGGLO",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.42,
+    "lat": 44.015,
+    "alt": 126,
+    "postePublic": true
+  },
+  {
+    "id": "30334003",
+    "nom": "UZES",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 4.401833,
+    "lat": 43.9925,
+    "alt": 72,
+    "postePublic": true
+  },
+  {
+    "id": "30339001",
+    "nom": "MONT AIGOUAL",
+    "posteOuvert": true,
+    "typePoste": 0,
+    "lon": 3.5815,
+    "lat": 44.121333,
+    "alt": 1567,
+    "postePublic": true
+  },
+  {
+    "id": "30339006",
+    "nom": "VALLERAUGUE",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 3.6345,
+    "lat": 44.081333,
+    "alt": 360,
+    "postePublic": true
+  },
+  {
+    "id": "30341001",
+    "nom": "VAUVERT-DDE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.266667,
+    "lat": 43.71,
+    "alt": 17,
+    "postePublic": true
+  },
+  {
+    "id": "30341003",
+    "nom": "VAUVERT",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 4.303333,
+    "lat": 43.665,
+    "alt": 50,
+    "postePublic": true
+  },
+  {
+    "id": "30347001",
+    "nom": "VESTRIC-ET-CANDIAC",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.2595,
+    "lat": 43.746833,
+    "alt": 26,
+    "postePublic": true
+  },
+  {
+    "id": "30349001",
+    "nom": "VIC LE FESQ",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 4.072167,
+    "lat": 43.870833,
+    "alt": 45,
+    "postePublic": true
+  },
+  {
+    "id": "30350001",
+    "nom": "LE VIGAN",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 3.6115,
+    "lat": 43.99,
+    "alt": 222,
+    "postePublic": true
+  },
+  {
+    "id": "30350003",
+    "nom": "LE VIGAN LES COMBES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 3.603333,
+    "lat": 43.988333,
+    "alt": 252,
+    "postePublic": true
+  },
+  {
+    "id": "30352002",
+    "nom": "VILLEVIEILLE",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 4.090833,
+    "lat": 43.795167,
+    "alt": 41,
+    "postePublic": true
+  }
+]

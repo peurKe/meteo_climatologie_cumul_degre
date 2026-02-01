@@ -1,0 +1,111 @@
+[
+  {
+    "name": "Grezillé",
+    "departement": 49,
+    "county": "Maine-et-Loire",
+    "country": "France",
+    "language": "fr",
+    "parameter": "temperature",
+    "force": false
+  },
+  {
+    "name": "Rouen",
+    "departement": 76,
+    "county": "Seine-Maritime"
+  },
+  {
+    "name": "Janzé",
+    "departement": 35,
+    "county": "Ille-et-Vilaine"
+  },
+  {
+    "name": "Montaigu",
+    "departement": 85,
+    "county": "Vendée"
+  },
+  {
+    "name": "Parthenay",
+    "departement": 79,
+    "county": "Deux-Sèvres"
+  },
+  {
+    "name": "Angers",
+    "departement": 49,
+    "county": "Maine-et-Loire"
+  },
+  {
+    "name": "Château du loir",
+    "departement": 72,
+    "county": "Sarthe"
+  },
+  {
+    "name": "Tours",
+    "departement": 37,
+    "county": "Indre-et-Loire"
+  },
+  {
+    "name": "Saint Yrieix la perche",
+    "departement": 87,
+    "county": "Haute Vienne"
+  },
+  {
+    "name": "Montauban",
+    "departement": 82,
+    "county": "Tarn-et-Garonne"
+  },
+  {
+    "name": "Aiguillon",
+    "departement": 47,
+    "county": "Lot-et-Garonne"
+  },
+  {
+    "name": "Lunel",
+    "departement": 34,
+    "county": "Hérault"
+  },
+  {
+    "name": "Perpignan",
+    "departement": 66,
+    "county": "Pyrénées-Orientales"
+  },
+   {
+    "name": "Saint-Quentin",
+    "departement": 2,
+    "county": "Aisne"
+  },
+  {
+    "name": "Caderousse",
+    "departement": 84,
+    "county": "Vaucluse"
+  },
+  {
+    "name": "Nîmes",
+    "departement": 30,
+    "county": "Gard"
+  },
+  {
+    "name": "Valence",
+    "departement": 26,
+    "county": "Drôme"
+  },
+  {
+    "name": "Obernai",
+    "departement": 67,
+    "county": "Bas-Rhin"
+  },
+  {
+    "name": "Epinouze",
+    "departement": 26,
+    "county": "Drôme"
+  },
+  {
+    "name": "Sainte-Hélène-sur-Isère",
+    "departement": 73,
+    "county": "Savoie"
+  },
+  {
+    "name": "Sisteron",
+    "departement": 4,
+    "county": "Alpes-de-Haute-Provence"
+  }
+]

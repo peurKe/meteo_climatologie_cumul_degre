@@ -1,0 +1,602 @@
+[
+  {
+    "id": "84001001",
+    "nom": "ALTHEN",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 4.962167,
+    "lat": 43.989833,
+    "alt": 35,
+    "postePublic": true
+  },
+  {
+    "id": "84003001",
+    "nom": "APT (ECOLE)",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.41,
+    "lat": 43.876667,
+    "alt": 234,
+    "postePublic": true
+  },
+  {
+    "id": "84003002",
+    "nom": "APT-VITON",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 5.414,
+    "lat": 43.881,
+    "alt": 242,
+    "postePublic": true
+  },
+  {
+    "id": "84003003",
+    "nom": "APT",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 5.381833,
+    "lat": 43.892,
+    "alt": 222,
+    "postePublic": true
+  },
+  {
+    "id": "84005001",
+    "nom": "AUREL",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.413333,
+    "lat": 44.123333,
+    "alt": 725,
+    "postePublic": true
+  },
+  {
+    "id": "84007001",
+    "nom": "AVIGNON (P.V.)",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.815,
+    "lat": 43.931667,
+    "alt": 25,
+    "postePublic": true
+  },
+  {
+    "id": "84007002",
+    "nom": "AVIGNON-INRAE",
+    "posteOuvert": true,
+    "typePoste": 5,
+    "lon": 4.876667,
+    "lat": 43.916667,
+    "alt": 32,
+    "postePublic": true
+  },
+  {
+    "id": "84007004",
+    "nom": "AVIGNON-ECOLE NORMALE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.81,
+    "lat": 43.945,
+    "alt": 22,
+    "postePublic": true
+  },
+  {
+    "id": "84007005",
+    "nom": "AVIGNON",
+    "posteOuvert": true,
+    "typePoste": 0,
+    "lon": 4.9025,
+    "lat": 43.911333,
+    "alt": 34,
+    "postePublic": true
+  },
+  {
+    "id": "84007006",
+    "nom": "AVIGNON ECOLE D'AGRICULTURE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.805,
+    "lat": 43.94,
+    "alt": 23,
+    "postePublic": true
+  },
+  {
+    "id": "84007007",
+    "nom": "AVIGNON COMMISSION METEO",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.805,
+    "lat": 43.94,
+    "alt": 20,
+    "postePublic": true
+  },
+  {
+    "id": "84009001",
+    "nom": "LA BASTIDE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.636667,
+    "lat": 43.785,
+    "alt": 500,
+    "postePublic": true
+  },
+  {
+    "id": "84009002",
+    "nom": "LA BASTIDE DES JOURDANS",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 5.615,
+    "lat": 43.787333,
+    "alt": 381,
+    "postePublic": true
+  },
+  {
+    "id": "84014001",
+    "nom": "BEAUMONT-DE-PERTUIS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.741667,
+    "lat": 43.733333,
+    "alt": 255,
+    "postePublic": true
+  },
+  {
+    "id": "84015002",
+    "nom": "BEAUMONT-MT  SEREIN",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 5.255833,
+    "lat": 44.180667,
+    "alt": 1445,
+    "postePublic": true
+  },
+  {
+    "id": "84017001",
+    "nom": "MONT-VENTOUX",
+    "posteOuvert": false,
+    "typePoste": 0,
+    "lon": 5.276667,
+    "lat": 44.173333,
+    "alt": 1912,
+    "postePublic": true
+  },
+  {
+    "id": "84017006",
+    "nom": "CHALET REYNARD",
+    "posteOuvert": false,
+    "typePoste": 3,
+    "lon": 5.319667,
+    "lat": 44.151167,
+    "alt": 1455,
+    "postePublic": true
+  },
+  {
+    "id": "84018001",
+    "nom": "BLAUVAC",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.208333,
+    "lat": 44.04,
+    "alt": 245,
+    "postePublic": true
+  },
+  {
+    "id": "84020002",
+    "nom": "BONNIEUX BOURG",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.31,
+    "lat": 43.823333,
+    "alt": 402,
+    "postePublic": true
+  },
+  {
+    "id": "84020003",
+    "nom": "BONNIEUX",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.302667,
+    "lat": 43.833167,
+    "alt": 250,
+    "postePublic": true
+  },
+  {
+    "id": "84020004",
+    "nom": "BONNIEUX/PLAINE",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 5.301667,
+    "lat": 43.868333,
+    "alt": 175,
+    "postePublic": true
+  },
+  {
+    "id": "84025001",
+    "nom": "CABRIERES D'AVIGNON",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 5.164833,
+    "lat": 43.883667,
+    "alt": 142,
+    "postePublic": true
+  },
+  {
+    "id": "84026003",
+    "nom": "CADENET",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 5.353,
+    "lat": 43.718833,
+    "alt": 152,
+    "postePublic": true
+  },
+  {
+    "id": "84028001",
+    "nom": "CAIRANNE",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 4.943333,
+    "lat": 44.215,
+    "alt": 118,
+    "postePublic": true
+  },
+  {
+    "id": "84031001",
+    "nom": "CARPENTRAS",
+    "posteOuvert": true,
+    "typePoste": 0,
+    "lon": 5.058333,
+    "lat": 44.083667,
+    "alt": 98,
+    "postePublic": true
+  },
+  {
+    "id": "84031002",
+    "nom": "CARPENTRAS QUARTIER SOUVILLE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.048333,
+    "lat": 44.056667,
+    "alt": 92,
+    "postePublic": true
+  },
+  {
+    "id": "84033001",
+    "nom": "CASTELLET/VAL.",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 5.488333,
+    "lat": 43.848333,
+    "alt": 288,
+    "postePublic": true
+  },
+  {
+    "id": "84035002",
+    "nom": "CAVAILLON SERVICE AGRICOLE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.036667,
+    "lat": 43.831667,
+    "alt": 80,
+    "postePublic": true
+  },
+  {
+    "id": "84035003",
+    "nom": "CAVAILLON",
+    "posteOuvert": false,
+    "typePoste": 3,
+    "lon": 5.032333,
+    "lat": 43.8565,
+    "alt": 70,
+    "postePublic": true
+  },
+  {
+    "id": "84036001",
+    "nom": "GADAGNE",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 4.9245,
+    "lat": 43.933167,
+    "alt": 110,
+    "postePublic": true
+  },
+  {
+    "id": "84037001",
+    "nom": "CHATEAUN/PAPE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.813333,
+    "lat": 44.049667,
+    "alt": 26,
+    "postePublic": true
+  },
+  {
+    "id": "84037002",
+    "nom": "CHATEAUNEUF DU PAPE",
+    "posteOuvert": false,
+    "typePoste": 3,
+    "lon": 4.811333,
+    "lat": 44.0815,
+    "alt": 106,
+    "postePublic": true
+  },
+  {
+    "id": "84050001",
+    "nom": "GORDES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.175,
+    "lat": 43.885,
+    "alt": 160,
+    "postePublic": true
+  },
+  {
+    "id": "84051001",
+    "nom": "GOULT",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.248667,
+    "lat": 43.895,
+    "alt": 175,
+    "postePublic": true
+  },
+  {
+    "id": "84054001",
+    "nom": "ISLE SUR SORGUE",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 5.051167,
+    "lat": 43.9015,
+    "alt": 64,
+    "postePublic": true
+  },
+  {
+    "id": "84064001",
+    "nom": "LAPALUD",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 4.658167,
+    "lat": 44.3205,
+    "alt": 46,
+    "postePublic": true
+  },
+  {
+    "id": "84069001",
+    "nom": "MALAUCENE",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 5.116333,
+    "lat": 44.168833,
+    "alt": 348,
+    "postePublic": true
+  },
+  {
+    "id": "84074004",
+    "nom": "MERINDOL",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 5.192667,
+    "lat": 43.752167,
+    "alt": 150,
+    "postePublic": true
+  },
+  {
+    "id": "84082001",
+    "nom": "MORMOIRON",
+    "posteOuvert": false,
+    "typePoste": 3,
+    "lon": 5.209667,
+    "lat": 44.072833,
+    "alt": 308,
+    "postePublic": true
+  },
+  {
+    "id": "84085003",
+    "nom": "MURS-SALUT",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 5.241667,
+    "lat": 43.943333,
+    "alt": 470,
+    "postePublic": true
+  },
+  {
+    "id": "84085004",
+    "nom": "MURS",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 5.2255,
+    "lat": 43.938167,
+    "alt": 488,
+    "postePublic": true
+  },
+  {
+    "id": "84086001",
+    "nom": "OPPEDE CRETE DU PETIT  LUBERON",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 5.146,
+    "lat": 43.811,
+    "alt": 672,
+    "postePublic": true
+  },
+  {
+    "id": "84087001",
+    "nom": "ORANGE",
+    "posteOuvert": true,
+    "typePoste": 0,
+    "lon": 4.861,
+    "lat": 44.1445,
+    "alt": 57,
+    "postePublic": true
+  },
+  {
+    "id": "84087002",
+    "nom": "ORANGE RUE DE LA CONCORDE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.81,
+    "lat": 44.136667,
+    "alt": 43,
+    "postePublic": true
+  },
+  {
+    "id": "84094001",
+    "nom": "PUYMERAS",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 5.131333,
+    "lat": 44.2895,
+    "alt": 392,
+    "postePublic": true
+  },
+  {
+    "id": "84095001",
+    "nom": "PUYVERT",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 5.345,
+    "lat": 43.731667,
+    "alt": 150,
+    "postePublic": true
+  },
+  {
+    "id": "84107002",
+    "nom": "ST CHRISTOL",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 5.492833,
+    "lat": 44.040667,
+    "alt": 836,
+    "postePublic": true
+  },
+  {
+    "id": "84118001",
+    "nom": "ST SATURNIN LES APT",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.372,
+    "lat": 43.930833,
+    "alt": 322,
+    "postePublic": true
+  },
+  {
+    "id": "84121001",
+    "nom": "SANNES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.499333,
+    "lat": 43.754833,
+    "alt": 307,
+    "postePublic": true
+  },
+  {
+    "id": "84122002",
+    "nom": "SARRIANS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.971167,
+    "lat": 44.087,
+    "alt": 36,
+    "postePublic": true
+  },
+  {
+    "id": "84123001",
+    "nom": "SAULT-VILLAGE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.417333,
+    "lat": 44.089833,
+    "alt": 792,
+    "postePublic": true
+  },
+  {
+    "id": "84123004",
+    "nom": "SAULT",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 5.396667,
+    "lat": 44.068333,
+    "alt": 670,
+    "postePublic": true
+  },
+  {
+    "id": "84125003",
+    "nom": "SAVOILLAN",
+    "posteOuvert": false,
+    "typePoste": 3,
+    "lon": 5.375167,
+    "lat": 44.179833,
+    "alt": 510,
+    "postePublic": true
+  },
+  {
+    "id": "84126001",
+    "nom": "SEGURET",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.001833,
+    "lat": 44.2075,
+    "alt": 140,
+    "postePublic": true
+  },
+  {
+    "id": "84133001",
+    "nom": "TOUR D AIGUES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.561667,
+    "lat": 43.733333,
+    "alt": 260,
+    "postePublic": true
+  },
+  {
+    "id": "84137001",
+    "nom": "VAISON LA ROMAINE",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 5.063333,
+    "lat": 44.258333,
+    "alt": 240,
+    "postePublic": true
+  },
+  {
+    "id": "84138001",
+    "nom": "VALREAS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 4.963833,
+    "lat": 44.380167,
+    "alt": 202,
+    "postePublic": true
+  },
+  {
+    "id": "84138003",
+    "nom": "VALREAS COTEAU",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.012833,
+    "lat": 44.369833,
+    "alt": 325,
+    "postePublic": true
+  },
+  {
+    "id": "84140001",
+    "nom": "VAUGINES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 5.412333,
+    "lat": 43.773667,
+    "alt": 345,
+    "postePublic": true
+  },
+  {
+    "id": "84150001",
+    "nom": "VISAN",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 4.9055,
+    "lat": 44.336667,
+    "alt": 141,
+    "postePublic": true
+  }
+]

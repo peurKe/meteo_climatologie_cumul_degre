@@ -1,0 +1,382 @@
+[
+  {
+    "id": "76034001",
+    "nom": "AUFFAY",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.095,
+    "lat": 49.72,
+    "alt": 125,
+    "postePublic": true
+  },
+  {
+    "id": "76043001",
+    "nom": "AUZEBOSC",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.738333,
+    "lat": 49.611667,
+    "alt": 142,
+    "postePublic": true
+  },
+  {
+    "id": "76082001",
+    "nom": "BERNIERES LA CAPITAINERIE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.476667,
+    "lat": 49.62,
+    "alt": 142,
+    "postePublic": true
+  },
+  {
+    "id": "76116001",
+    "nom": "ROUEN-BOOS",
+    "posteOuvert": true,
+    "typePoste": 0,
+    "lon": 1.178333,
+    "lat": 49.3895,
+    "alt": 156,
+    "postePublic": true
+  },
+  {
+    "id": "76130001",
+    "nom": "BOUELLES",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 1.5025,
+    "lat": 49.733167,
+    "alt": 232,
+    "postePublic": true
+  },
+  {
+    "id": "76146001",
+    "nom": "BUCHY",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.361833,
+    "lat": 49.585667,
+    "alt": 211,
+    "postePublic": true
+  },
+  {
+    "id": "76170001",
+    "nom": "CHAPELLE-DU-BOURGAY",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.148333,
+    "lat": 49.82,
+    "alt": 108,
+    "postePublic": true
+  },
+  {
+    "id": "76171001",
+    "nom": "LA CHAPELLE-SAINT-OUEN_SAPC",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 1.439833,
+    "lat": 49.538167,
+    "alt": 197,
+    "postePublic": true
+  },
+  {
+    "id": "76208001",
+    "nom": "CUY SAINT FIACRE_SAPC",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 1.716,
+    "lat": 49.507833,
+    "alt": 104,
+    "postePublic": true
+  },
+  {
+    "id": "76217001",
+    "nom": "DIEPPE",
+    "posteOuvert": true,
+    "typePoste": 0,
+    "lon": 1.09,
+    "lat": 49.932833,
+    "alt": 40,
+    "postePublic": true
+  },
+  {
+    "id": "76217002",
+    "nom": "DIEPPE RUE DE LA COLLINE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.078333,
+    "lat": 49.92,
+    "alt": 90,
+    "postePublic": true
+  },
+  {
+    "id": "76228001",
+    "nom": "ECTOT LES BAONS",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 0.816667,
+    "lat": 49.646667,
+    "alt": 150,
+    "postePublic": true
+  },
+  {
+    "id": "76255001",
+    "nom": "EU",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.418333,
+    "lat": 50.048333,
+    "alt": 7,
+    "postePublic": true
+  },
+  {
+    "id": "76255002",
+    "nom": "EU",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 1.421,
+    "lat": 50.058,
+    "alt": 13,
+    "postePublic": true
+  },
+  {
+    "id": "76259001",
+    "nom": "FECAMP",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 0.369167,
+    "lat": 49.767167,
+    "alt": 104,
+    "postePublic": true
+  },
+  {
+    "id": "76259003",
+    "nom": "FECAMP AGGLOMERATION",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.373333,
+    "lat": 49.756667,
+    "alt": 20,
+    "postePublic": true
+  },
+  {
+    "id": "76276001",
+    "nom": "FORGES",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 1.5225,
+    "lat": 49.6025,
+    "alt": 160,
+    "postePublic": true
+  },
+  {
+    "id": "76302002",
+    "nom": "GODERVILLE",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 0.368167,
+    "lat": 49.642333,
+    "alt": 118,
+    "postePublic": true
+  },
+  {
+    "id": "76322002",
+    "nom": "ROUVRAY",
+    "posteOuvert": false,
+    "typePoste": 0,
+    "lon": 1.043333,
+    "lat": 49.411667,
+    "alt": 68,
+    "postePublic": true
+  },
+  {
+    "id": "76351001",
+    "nom": "LE HAVRE - PORT",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 0.101667,
+    "lat": 49.483333,
+    "alt": 9,
+    "postePublic": true
+  },
+  {
+    "id": "76351007",
+    "nom": "HAVRE - PERRET",
+    "posteOuvert": false,
+    "typePoste": 2,
+    "lon": 0.07,
+    "lat": 49.5,
+    "alt": 75,
+    "postePublic": true
+  },
+  {
+    "id": "76378001",
+    "nom": "JUMIEGES",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 0.820833,
+    "lat": 49.435833,
+    "alt": 30,
+    "postePublic": true
+  },
+  {
+    "id": "76447001",
+    "nom": "MONTIVILLIERS",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.191667,
+    "lat": 49.545,
+    "alt": 6,
+    "postePublic": true
+  },
+  {
+    "id": "76473001",
+    "nom": "NOTRE-DAME DE BLIQUETUIT",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 0.770667,
+    "lat": 49.494,
+    "alt": 4,
+    "postePublic": true
+  },
+  {
+    "id": "76481001",
+    "nom": "OCTEVILLE",
+    "posteOuvert": true,
+    "typePoste": 0,
+    "lon": 0.091667,
+    "lat": 49.533,
+    "alt": 90,
+    "postePublic": true
+  },
+  {
+    "id": "76499001",
+    "nom": "PETIVILLE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.594,
+    "lat": 49.459667,
+    "alt": 18,
+    "postePublic": true
+  },
+  {
+    "id": "76540004",
+    "nom": "ROUEN ECOLE NORMALE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.088333,
+    "lat": 49.436667,
+    "alt": 22,
+    "postePublic": true
+  },
+  {
+    "id": "76540005",
+    "nom": "ROUEN",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.088333,
+    "lat": 49.436667,
+    "alt": 6,
+    "postePublic": true
+  },
+  {
+    "id": "76540009",
+    "nom": "ROUEN - JARDIN",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 1.077333,
+    "lat": 49.422667,
+    "alt": 21,
+    "postePublic": true
+  },
+  {
+    "id": "76552001",
+    "nom": "CAP-DE-LA-HEVE",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 0.071167,
+    "lat": 49.509,
+    "alt": 100,
+    "postePublic": true
+  },
+  {
+    "id": "76580001",
+    "nom": "ST-GEORGES",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.18,
+    "lat": 49.543333,
+    "alt": 146,
+    "postePublic": true
+  },
+  {
+    "id": "76582001",
+    "nom": "ST-GERMAIN-D'ETABLES",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 1.167167,
+    "lat": 49.8395,
+    "alt": 22,
+    "postePublic": true
+  },
+  {
+    "id": "76595001",
+    "nom": "ST JOUIN",
+    "posteOuvert": false,
+    "typePoste": 3,
+    "lon": 0.153333,
+    "lat": 49.651667,
+    "alt": 15,
+    "postePublic": true
+  },
+  {
+    "id": "76679001",
+    "nom": "SOMMESNIL",
+    "posteOuvert": true,
+    "typePoste": 2,
+    "lon": 0.673667,
+    "lat": 49.705667,
+    "alt": 101,
+    "postePublic": true
+  },
+  {
+    "id": "76684001",
+    "nom": "TANCARVILLE",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.45,
+    "lat": 49.475,
+    "alt": 10,
+    "postePublic": true
+  },
+  {
+    "id": "76711001",
+    "nom": "LE TREPORT",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 1.371667,
+    "lat": 50.056667,
+    "alt": 7,
+    "postePublic": true
+  },
+  {
+    "id": "76746001",
+    "nom": "VINNEMERVILLE",
+    "posteOuvert": true,
+    "typePoste": 1,
+    "lon": 0.567667,
+    "lat": 49.8145,
+    "alt": 86,
+    "postePublic": true
+  },
+  {
+    "id": "76758001",
+    "nom": "YVETOT",
+    "posteOuvert": false,
+    "typePoste": 4,
+    "lon": 0.753333,
+    "lat": 49.616667,
+    "alt": 145,
+    "postePublic": true
+  }
+]
